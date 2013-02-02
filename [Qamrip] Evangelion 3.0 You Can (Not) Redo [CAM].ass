@@ -1,0 +1,1285 @@
+[Script Info]
+; Script adapted by K40s@evageeks
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: Default
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Malgun Gothic,35,&H00FFFFFF,&H00070FA5,&H000B0C9E,&H06000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:02.50,00:00:05.50,Default,,0000,0000,0000,,{Man}         Tracking team, report on both units' current positions.
+Dialogue: 0,00:00:05.50,00:00:08.50,Default,,0000,0000,0000,,{Woman}       Pod 02-Dash has achieved operational altitude.
+Dialogue: 0,00:00:08.50,00:00:10.50,Default,,0000,0000,0000,,{Woman}       It has settled into the targeted orbit.
+Dialogue: 0,00:00:10.50,00:00:14.50,Default,,0000,0000,0000,,{Man}         Pod 08 was unable to breach target orbital range due to insufficient altitude.
+Dialogue: 0,00:00:14.50,00:00:16.50,Default,,0000,0000,0000,,{Aoba}        Copy that.
+Dialogue: 0,00:00:16.50,00:00:18.50,Default,,0000,0000,0000,,{Aoba}        02-Dash will conduct a solo operation.
+Dialogue: 0,00:00:18.50,00:00:19.50,Default,,0000,0000,0000,,{Man}         Roger.
+Dialogue: 0,00:00:19.50,00:00:21.50,Default,,0000,0000,0000,,{Man}         Pod 08 will act as support.
+Dialogue: 0,00:00:21.50,00:00:22.50,Default,,0000,0000,0000,,{Man}         Transition shift to 7.
+Dialogue: 0,00:00:22.50,00:00:25.50,Default,,0000,0000,0000,,{Ritsuko}     Pod 02-Dash is beyond the point of recovery.
+Dialogue: 0,00:00:25.50,00:00:27.50,Default,,0000,0000,0000,,{Ritsuko}     Breaching Area 88.
+Dialogue: 0,00:00:27.50,00:00:28.50,Default,,0000,0000,0000,,{Misato}      Roger.
+Dialogue: 0,00:00:28.50,00:00:30.50,Default,,0000,0000,0000,,{Misato}      Commence Operation US.
+Dialogue: 0,00:00:30.50,00:00:31.50,Default,,0000,0000,0000,,{Woman}       Roger.
+Dialogue: 0,00:00:31.50,00:00:35.50,Default,,0000,0000,0000,,{Woman}       Pod 02-Dash will enter the final operational orbit.
+Dialogue: 0,00:00:35.50,00:00:36.50,Default,,0000,0000,0000,,{Woman}       Deceleration in progress.
+Dialogue: 0,00:00:36.50,00:00:39.50,Default,,0000,0000,0000,,{Man}         Stage 1, ignite all engines.
+Dialogue: 0,00:00:39.50,00:00:44.50,Default,,0000,0000,0000,,{Man}         Combustion imminent.
+Dialogue: 0,00:00:44.50,00:00:46.50,Default,,0000,0000,0000,,{Woman}       S1C combustion complete.
+Dialogue: 0,00:00:46.50,00:00:47.50,Default,,0000,0000,0000,,{Woman}       Deceleration confirmed.
+Dialogue: 0,00:00:47.50,00:00:51.50,Default,,0000,0000,0000,,{Man}         Jettisoning booster unit, stage 1.
+Dialogue: 0,00:00:51.50,00:00:53.50,Default,,0000,0000,0000,,{Woman}       Separation confirmed.
+Dialogue: 0,00:00:53.50,00:00:55.50,Default,,0000,0000,0000,,{Woman}       Combustion systems cleared. No problems detected.
+Dialogue: 0,00:00:55.50,00:00:56.50,Default,,0000,0000,0000,,{Man}         Roger.
+Dialogue: 0,00:00:56.50,00:00:58.50,Default,,0000,0000,0000,,{Man}         Automating ignition timing.
+Dialogue: 0,00:00:58.50,00:01:03.50,Default,,0000,0000,0000,,{Man}         Igniting all engines, stage 2.
+Dialogue: 0,00:01:03.50,00:01:06.50,Default,,0000,0000,0000,,{Woman}       S1C combustion complete.
+Dialogue: 0,00:01:06.50,00:01:07.50,Default,,0000,0000,0000,,{Woman}       Closing pressure valves.
+Dialogue: 0,00:01:07.50,00:01:10.50,Default,,0000,0000,0000,,{Man}         Jettisoning booster unit, stage 2.
+Dialogue: 0,00:01:10.50,00:01:12.50,Default,,0000,0000,0000,,{Woman}       Deceleration complete.
+Dialogue: 0,00:01:12.50,00:01:14.50,Default,,0000,0000,0000,,{Man}         Preparing to enter final operational orbit.
+Dialogue: 0,00:01:14.50,00:01:16.50,Default,,0000,0000,0000,,{Man}         Flipping unit head.
+Dialogue: 0,00:01:16.50,00:01:17.50,Default,,0000,0000,0000,,{Man}         Commencing rotation.
+Dialogue: 0,00:01:17.50,00:01:19.50,Default,,0000,0000,0000,,{Man}         Descent angle confirmed.
+Dialogue: 0,00:01:19.50,00:01:20.50,Default,,0000,0000,0000,,{Man}         Within an acceptable margin of error.
+Dialogue: 0,00:01:20.50,00:01:22.50,Default,,0000,0000,0000,,{Woman}       Recalculating relative velocity.
+Dialogue: 0,00:01:22.50,00:01:24.50,Default,,0000,0000,0000,,{Woman}       Reconfirming coordinate altitude.
+Dialogue: 0,00:01:24.50,00:01:26.50,Default,,0000,0000,0000,,{Woman}       No problems.
+Dialogue: 0,00:01:26.50,00:01:28.50,Default,,0000,0000,0000,,{Woman}       Final orbit corrections complete.
+Dialogue: 0,00:01:28.50,00:01:30.50,Default,,0000,0000,0000,,{Woman}       180-degree rotation complete.
+Dialogue: 0,00:01:30.50,00:01:31.50,Default,,0000,0000,0000,,{Hyuga}       Roger.
+Dialogue: 0,00:01:31.50,00:01:34.50,Default,,0000,0000,0000,,{Hyuga}       Pod 02-Dash will transition to the intersection orbit.
+Dialogue: 0,00:01:34.50,00:01:36.50,Default,,0000,0000,0000,,{Hyuga}       Now commencing the operation.
+Dialogue: 0,00:01:36.50,00:01:38.50,Default,,0000,0000,0000,,{Aoba}        All remote guiding will now be cut.
+Dialogue: 0,00:01:38.50,00:01:40.50,Default,,0000,0000,0000,,{Aoba}        Unit will be controlled manually.
+Dialogue: 0,00:01:40.50,00:01:42.50,Default,,0000,0000,0000,,{Hyuga}       Good luck.
+Dialogue: 0,00:01:42.50,00:01:44.50,Default,,0000,0000,0000,,{Woman}       Unit is on course to intersect with the target.
+Dialogue: 0,00:01:44.50,00:01:47.50,Default,,0000,0000,0000,,{Woman}       Eight miles remaining until contact.
+Dialogue: 0,00:01:47.50,00:01:48.50,Default,,0000,0000,0000,,{Woman}       Confirming target.
+Dialogue: 0,00:01:48.50,00:01:50.50,Default,,0000,0000,0000,,{Man}         Contact point is unchanged.
+Dialogue: 0,00:01:50.50,00:01:53.50,Default,,0000,0000,0000,,{Woman}       Maintaining Shift-M. No problems.
+Dialogue: 0,00:01:53.50,00:01:55.50,Default,,0000,0000,0000,,{Misato}      02-Dash, prepare to rendezvous.
+Dialogue: 0,00:01:55.50,00:02:00.50,Default,,0000,0000,0000,,{Misato}      08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
+Dialogue: 0,00:02:00.50,00:02:03.50,Default,,0000,0000,0000,,{Misato}      Finish this by then.
+Dialogue: 0,00:02:03.50,00:02:05.50,Default,,0000,0000,0000,,{Hyuga}       Reflective waves detected in target space.
+Dialogue: 0,00:02:05.50,00:02:06.50,Default,,0000,0000,0000,,{Hyuga}       It's jamming us!
+Dialogue: 0,00:02:06.50,00:02:08.50,Default,,0000,0000,0000,,{Aoba}        It's just the auto-defense system's mass weapon.
+Dialogue: 0,00:02:08.50,00:02:11.50,Default,,0000,0000,0000,,{Aoba}        No need to worry.
+Dialogue: 0,00:02:11.50,00:02:13.50,Default,,0000,0000,0000,,{Man}         Burst flows generated!
+Dialogue: 0,00:02:13.50,00:02:20.50,Default,,0000,0000,0000,,{Man}         Incoming in 3... 2... 1...
+Dialogue: 0,00:02:20.50,00:02:21.50,Default,,0000,0000,0000,,{Aoba}        Second wave incoming.
+Dialogue: 0,00:02:21.50,00:02:22.50,Default,,0000,0000,0000,,{Aoba}        Blood type: blue.
+Dialogue: 0,00:02:22.50,00:02:23.50,Default,,0000,0000,0000,,{Aoba}        They're a pesky bunch.
+Dialogue: 0,00:02:23.50,00:02:25.50,Default,,0000,0000,0000,,{Man}         Identifying approaching body...
+Dialogue: 0,00:02:25.50,00:02:35.50,Default,,0000,0000,0000,,{Man}         Confirmed to be Mk. 04A.
+Dialogue: 0,00:02:35.50,00:02:42.50,Default,,0000,0000,0000,,{Asuka}       An Anti-A.T. Field!
+Dialogue: 0,00:02:42.50,00:02:44.50,Default,,0000,0000,0000,,{Asuka}       This sucks!
+Dialogue: 0,00:02:44.50,00:02:47.50,Default,,0000,0000,0000,,{Asuka}       It's just getting in my way!
+Dialogue: 0,00:02:47.50,00:02:54.50,Default,,0000,0000,0000,,{Asuka}       Hey, Glasses! Some backup here!
+Dialogue: 0,00:02:54.50,00:02:59.50,Default,,0000,0000,0000,,{Asuka}       Support fire was two seconds late!
+Dialogue: 0,00:02:59.50,00:03:02.50,Default,,0000,0000,0000,,{Mari}        And you're three seconds ahead of position.
+Dialogue: 0,00:03:02.50,00:03:05.50,Default,,0000,0000,0000,,{Asuka}       It's called adapting to the situation. Keep up with me!
+Dialogue: 0,00:03:05.50,00:03:07.50,Default,,0000,0000,0000,,{Mari}        As you command,
+Dialogue: 0,00:03:07.50,00:03:15.50,Default,,0000,0000,0000,,{Mari}        Princess!
+Dialogue: 0,00:03:15.50,00:03:17.50,Default,,0000,0000,0000,,{Asuka}       It got through the Fraury Shift.
+Dialogue: 0,00:03:17.50,00:03:20.50,Default,,0000,0000,0000,,{Asuka}       It'll break into Final Defense Area 89.
+Dialogue: 0,00:03:20.50,00:03:26.50,Default,,0000,0000,0000,,{Asuka}       The target is moving!
+Dialogue: 0,00:03:26.50,00:03:27.50,Default,,0000,0000,0000,,{Asuka}       No time to correct my orbit!
+Dialogue: 0,00:03:27.50,00:03:50.50,Default,,0000,0000,0000,,{Asuka}       I'm going in!
+Dialogue: 0,00:03:50.50,00:03:56.50,Default,,0000,0000,0000,,{Asuka}       Decelerate!
+Dialogue: 0,00:03:56.50,00:03:57.50,Default,,0000,0000,0000,,{Asuka}       Eight!
+Dialogue: 0,00:03:57.50,00:03:58.50,Default,,0000,0000,0000,,{Asuka}       Seven!
+Dialogue: 0,00:03:58.50,00:03:59.50,Default,,0000,0000,0000,,{Asuka}       Six!
+Dialogue: 0,00:03:59.50,00:04:00.50,Default,,0000,0000,0000,,{Asuka}       Five!
+Dialogue: 0,00:04:00.50,00:04:01.50,Default,,0000,0000,0000,,{Asuka}       Four!
+Dialogue: 0,00:04:01.50,00:04:03.50,Default,,0000,0000,0000,,{Asuka}       Three!
+Dialogue: 0,00:04:03.50,00:04:04.50,Default,,0000,0000,0000,,{Asuka}       Two!
+Dialogue: 0,00:04:04.50,00:04:05.50,Default,,0000,0000,0000,,{Asuka}       One!
+Dialogue: 0,00:04:05.50,00:04:13.50,Default,,0000,0000,0000,,{Asuka}       Terminating combustion!
+Dialogue: 0,00:04:13.50,00:04:16.50,Default,,0000,0000,0000,,{Woman}       02-Dash has jettisoned the last boosters.
+Dialogue: 0,00:04:16.50,00:04:19.50,Default,,0000,0000,0000,,{Woman}       Ensuring safe distance for re-entry.
+Dialogue: 0,00:04:19.50,00:04:21.50,Default,,0000,0000,0000,,{Asuka}       Successfully seized the target.
+Dialogue: 0,00:04:21.50,00:04:23.50,Default,,0000,0000,0000,,{Asuka}       Returning to base.
+Dialogue: 0,00:04:23.50,00:04:24.50,Default,,0000,0000,0000,,{Misato}      Roger.
+Dialogue: 0,00:04:24.50,00:04:26.50,Default,,0000,0000,0000,,{Misato}      We'll be waiting at the retrieval point.
+Dialogue: 0,00:04:26.50,00:04:27.50,Default,,0000,0000,0000,,{Misato}      The join code is Saturn 5.
+Dialogue: 0,00:04:27.50,00:04:29.50,Default,,0000,0000,0000,,{Asuka}       Roger.
+Dialogue: 0,00:04:29.50,00:04:30.50,Default,,0000,0000,0000,,{Asuka}       Blood type blue?
+Dialogue: 0,00:04:30.50,00:04:35.50,Default,,0000,0000,0000,,{Asuka}       Where?!
+Dialogue: 0,00:04:35.50,00:04:37.50,Default,,0000,0000,0000,,{Woman}       The triggering object is Mk. 04B.
+Dialogue: 0,00:04:37.50,00:04:39.50,Default,,0000,0000,0000,,{Woman}       It is deploying indo-hashamas.
+Dialogue: 0,00:04:39.50,00:04:40.50,Default,,0000,0000,0000,,{Asuka}       The nerve!
+Dialogue: 0,00:04:40.50,00:04:43.50,Default,,0000,0000,0000,,{Asuka}       Right before re-entry, too.
+Dialogue: 0,00:04:43.50,00:04:45.50,Default,,0000,0000,0000,,{Asuka}       Glasses, back-up!
+Dialogue: 0,00:04:45.50,00:04:47.50,Default,,0000,0000,0000,,{Mari}        Sorry!
+Dialogue: 0,00:04:47.50,00:04:49.50,Default,,0000,0000,0000,,{Mari}        I don't have enough altitude, so see ya!
+Dialogue: 0,00:04:49.50,00:04:52.50,Default,,0000,0000,0000,,{Mari}        I'll leave the rest to y-...
+Dialogue: 0,00:04:52.50,00:04:54.50,Default,,0000,0000,0000,,{Asuka}       Ugh! She's useless!
+Dialogue: 0,00:04:54.50,00:04:56.50,Default,,0000,0000,0000,,{Asuka}       Damn, this thing is stubborn!
+Dialogue: 0,00:04:56.50,00:05:09.50,Default,,0000,0000,0000,,{Asuka}       Nobody told me about this!
+Dialogue: 0,00:05:09.50,00:05:11.50,Default,,0000,0000,0000,,{Asuka}       What's with this light?!
+Dialogue: 0,00:05:11.50,00:05:15.50,Default,,0000,0000,0000,,{Asuka}       The A.T. Field isn't neutralizing it!
+Dialogue: 0,00:05:15.50,00:05:16.50,Default,,0000,0000,0000,,{Asuka}       I can't get at the core block!
+Dialogue: 0,00:05:16.50,00:05:20.50,Default,,0000,0000,0000,,{Asuka}       You're not getting away!
+Dialogue: 0,00:05:20.50,00:05:22.50,Default,,0000,0000,0000,,{Asuka}       Crap! I can't maintain my descent angle!
+Dialogue: 0,00:05:22.50,00:05:24.50,Default,,0000,0000,0000,,{Asuka}       My unit will break apart at this rate!
+Dialogue: 0,00:05:24.50,00:05:28.50,Default,,0000,0000,0000,,{Misato}      02-Dash, completing the mission takes top priority!
+Dialogue: 0,00:05:28.50,00:05:30.50,Default,,0000,0000,0000,,{Misato}      Don't let go of the target object, even if it means sacrificing the unit.
+Dialogue: 0,00:05:30.50,00:05:51.50,Default,,0000,0000,0000,,{Asuka}       I already know that!
+Dialogue: 0,00:05:51.50,00:06:33.50,Default,,0000,0000,0000,,{Asuka}       Do something, you idiot, Shinji!
+Dialogue: 0,00:06:33.50,00:06:36.50,Default,,0000,0000,0000,,{Kaworu}      Welcome home, Ikari Shinji-kun.
+Dialogue: 0,00:06:36.50,00:06:52.50,Default,,0000,0000,0000,,{Kaworu}      I've been waiting for you.
+Dialogue: 0,00:06:52.50,00:06:54.50,Default,,0000,0000,0000,,{Sakura}      Cardiopulmonary function is nominal.
+Dialogue: 0,00:06:54.50,00:06:56.50,Default,,0000,0000,0000,,{Sakura}      No discernible paralysis of the extremities.
+Dialogue: 0,00:06:56.50,00:07:00.50,Default,,0000,0000,0000,,{Sakura}      Yes. His eyes are opening.
+Dialogue: 0,00:07:00.50,00:07:05.50,Default,,0000,0000,0000,,{Sakura}      Can you understand me?
+Dialogue: 0,00:07:05.50,00:07:08.50,Default,,0000,0000,0000,,{Shinji}      What is this place?
+Dialogue: 0,00:07:08.50,00:07:09.50,Default,,0000,0000,0000,,{Sakura}      He's responsive.
+Dialogue: 0,00:07:09.50,00:07:13.50,Default,,0000,0000,0000,,{Sakura}      He seems to have returned to a conscious state.
+Dialogue: 0,00:07:13.50,00:07:16.50,Default,,0000,0000,0000,,{Shinji}      Really, we have to help Ayanami.
+Dialogue: 0,00:07:16.50,00:07:20.50,Default,,0000,0000,0000,,{Sakura}      Yes, continuity of memory also seems acceptable.
+Dialogue: 0,00:07:20.50,00:07:23.50,Default,,0000,0000,0000,,{Shinji}      Um, where's Ayanami...?
+Dialogue: 0,00:07:23.50,00:07:28.50,Default,,0000,0000,0000,,{Sakura}      Is this someone you know?
+Dialogue: 0,00:07:28.50,00:07:31.50,Default,,0000,0000,0000,,{Shinji}      It's... me.
+Dialogue: 0,00:07:31.50,00:07:32.50,Default,,0000,0000,0000,,{Sakura}      He is capable of self-recognition as well.
+Dialogue: 0,00:07:32.50,00:07:34.50,Default,,0000,0000,0000,,{Sakura}      There seems to be no problem.
+Dialogue: 0,00:07:34.50,00:07:37.50,Default,,0000,0000,0000,,{Shinji}      What's this?
+Dialogue: 0,00:07:37.50,00:07:40.50,Default,,0000,0000,0000,,{Woman}       Installation list for refill operations cleared up to 86%.
+Dialogue: 0,00:07:40.50,00:07:44.50,Default,,0000,0000,0000,,{Koji}        Online N2 reactor maintaining output of 90%.
+Dialogue: 0,00:07:44.50,00:07:46.50,Default,,0000,0000,0000,,{Midori}      No ships visible within a perimeter of 1200.
+Dialogue: 0,00:07:46.50,00:07:48.50,Default,,0000,0000,0000,,{Midori}      No unidentified flying objects can be confirmed, either.
+Dialogue: 0,00:07:48.50,00:07:50.50,Default,,0000,0000,0000,,{Aoba}        Prioritize ships in the D block for the transferral of crew.
+Dialogue: 0,00:07:50.50,00:07:53.50,Default,,0000,0000,0000,,{Hyuga}       / We don't have enough personnel for the transfer operation! {##??????????????? (?????)}
+Dialogue: 0,00:07:53.50,00:07:56.50,Default,,0000,0000,0000,,{Sumire}      / #####??????
+Dialogue: 0,00:07:56.50,00:08:03.50,Default,,0000,0000,0000,,{Tama}        Checking the roadmap for the camouflage operation.
+Dialogue: 0,00:08:03.50,00:08:06.50,Default,,0000,0000,0000,,{Sakura}      Specimen BM03 is in our custody.
+Dialogue: 0,00:08:06.50,00:08:07.50,Default,,0000,0000,0000,,{Misato}      Understood.
+Dialogue: 0,00:08:07.50,00:08:10.50,Default,,0000,0000,0000,,{Misato}      Release the restraints.
+Dialogue: 0,00:08:10.50,00:08:35.50,Default,,0000,0000,0000,,{Misato}      You can step down.
+Dialogue: 0,00:08:35.50,00:08:38.50,Default,,0000,0000,0000,,{Shinji}      Misato-san...
+Dialogue: 0,00:08:38.50,00:08:41.50,Default,,0000,0000,0000,,{Misato}      It is Ikari Shinji-kun, isn't it?
+Dialogue: 0,00:08:41.50,00:08:42.50,Default,,0000,0000,0000,,{Ritsuko}     So it would seem.
+Dialogue: 0,00:08:42.50,00:08:47.50,Default,,0000,0000,0000,,{Ritsuko}     His physical data is identical to Code Third Boy.
+Dialogue: 0,00:08:47.50,00:08:53.50,Default,,0000,0000,0000,,{Ritsuko}     / Post birth dental treatment scars and body composition are reproduced perfectly by(?) Near Surge.
+Dialogue: 0,00:08:53.50,00:08:56.50,Default,,0000,0000,0000,,{Ritsuko}     We are now analyzing his deep level sync test results.
+Dialogue: 0,00:08:56.50,00:08:59.50,Default,,0000,0000,0000,,{Misato}      And the application of the DSS Choker?
+Dialogue: 0,00:08:59.50,00:09:02.50,Default,,0000,0000,0000,,{Ritsuko}     Its installation has already been arranged, Captain Katsuragi.
+Dialogue: 0,00:09:02.50,00:09:04.50,Default,,0000,0000,0000,,{Shinji}      Captain Katsuragi...?
+Dialogue: 0,00:09:04.50,00:09:13.50,Default,,0000,0000,0000,,{Shinji}      It is you after all!
+Dialogue: 0,00:09:13.50,00:09:14.50,Default,,0000,0000,0000,,{Ritsuko}     Activation nominal.
+Dialogue: 0,00:09:14.50,00:09:17.50,Default,,0000,0000,0000,,{Ritsuko}     Passcode is set exclusive to the Captain.
+Dialogue: 0,00:09:17.50,00:09:21.50,Default,,0000,0000,0000,,{Misato}      Understood.
+Dialogue: 0,00:09:21.50,00:09:24.50,Default,,0000,0000,0000,,{Shinji}      What is this thing?!
+Dialogue: 0,00:09:24.50,00:09:28.50,Default,,0000,0000,0000,,{Shinji}      Please, take it off already!
+Dialogue: 0,00:09:28.50,00:09:32.50,Default,,0000,0000,0000,,{Sakura}      That's never going to be taken off.
+Dialogue: 0,00:09:32.50,00:09:34.50,Default,,0000,0000,0000,,{Misato}      Interview complete.
+Dialogue: 0,00:09:34.50,00:09:38.50,Default,,0000,0000,0000,,{Misato}      Take him to quarantine.
+Dialogue: 0,00:09:38.50,00:09:40.50,Default,,0000,0000,0000,,{Midori}      Decoys 01 and 05 destroyed.
+Dialogue: 0,00:09:40.50,00:09:41.50,Default,,0000,0000,0000,,{Midori}      Insufficiency in wave's length.
+Dialogue: 0,00:09:41.50,00:09:43.50,Default,,0000,0000,0000,,{Misato}      The hell's this?
+Dialogue: 0,00:09:43.50,00:09:44.50,Default,,0000,0000,0000,,{Hyuga}       It's Pattern Blue.
+Dialogue: 0,00:09:44.50,00:09:46.50,Default,,0000,0000,0000,,{Hyuga}       Target identified.
+Dialogue: 0,00:09:46.50,00:09:47.50,Default,,0000,0000,0000,,{Hyuga}       Mk. 4C.
+Dialogue: 0,00:09:47.50,00:09:49.50,Default,,0000,0000,0000,,{Hyuga}       It's the Nemesis Series.
+Dialogue: 0,00:09:49.50,00:09:50.50,Default,,0000,0000,0000,,{Misato}      They're back...
+Dialogue: 0,00:09:50.50,00:09:50.50,Default,,0000,0000,0000,,{Midori (BG)} Targets are all Mk. 4C.
+Dialogue: 0,00:09:50.50,00:09:52.50,Default,,0000,0000,0000,,{Ritsuko}     They're advancing on all sides.
+Dialogue: 0,00:09:52.50,00:09:53.50,Default,,0000,0000,0000,,{Ritsuko}     They intend to cordon us here, to start with.
+Dialogue: 0,00:09:53.50,00:09:55.50,Default,,0000,0000,0000,,{Midori (BG)} / ???02(???)????06(????)??????
+Dialogue: 0,00:09:55.50,00:09:58.50,Default,,0000,0000,0000,,{Misato}      We can't afford to move from here yet.
+Dialogue: 0,00:09:58.50,00:10:00.50,Default,,0000,0000,0000,,{Misato}      Continue only with main engine's operations.
+Dialogue: 0,00:10:00.50,00:10:03.50,Default,,0000,0000,0000,,{Misato}      All fleets to Second Battle Stations.
+Dialogue: 0,00:10:03.50,00:10:05.50,Default,,0000,0000,0000,,{Misato}      Target: All Nemesis Series.
+Dialogue: 0,00:10:05.50,00:10:06.50,Default,,0000,0000,0000,,{Ritsuko}     Roger.
+Dialogue: 0,00:10:06.50,00:10:08.50,Default,,0000,0000,0000,,{Ritsuko}     All fleets to Second Battle Stations.
+Dialogue: 0,00:10:08.50,00:10:12.50,Default,,0000,0000,0000,,{Hyuga}       Prepare for anti-air, anti-water, and underwater battle.
+Dialogue: 0,00:10:12.50,00:10:13.50,Default,,0000,0000,0000,,{Aoba}        Abandon stock transfer.
+Dialogue: 0,00:10:13.50,00:10:15.50,Default,,0000,0000,0000,,{Aoba}        Prioritize the transferring of all personnel to another vessel.
+Dialogue: 0,00:10:15.50,00:10:17.50,Default,,0000,0000,0000,,{Woman}       All fleets, abandoning stock transfer.
+Dialogue: 0,00:10:17.50,00:10:23.50,Default,,0000,0000,0000,,{Woman}       All personnel, transferring vessels is top priority!
+Dialogue: 0,00:10:23.50,00:10:26.50,Default,,0000,0000,0000,,{Woman}       All aircraft are to withdraw from our current air space.
+Dialogue: 0,00:10:26.50,00:10:28.50,Default,,0000,0000,0000,,{Woman}       Hurry to Meeting Point 2.
+Dialogue: 0,00:10:28.50,00:10:30.50,Default,,0000,0000,0000,,{Man}         Abandon any leftover cargo.
+Dialogue: 0,00:10:30.50,00:10:32.50,Default,,0000,0000,0000,,{Man}         Migration of crew takes top priority.
+Dialogue: 0,00:10:32.50,00:10:36.50,Default,,0000,0000,0000,,{Man}         / ????????????????????????
+Dialogue: 0,00:10:36.50,00:10:38.50,Default,,0000,0000,0000,,{Man}         / ??????????####?????
+Dialogue: 0,00:10:38.50,00:10:40.50,Default,,0000,0000,0000,,{Woman}       Prepare all cannons to shoot.
+Dialogue: 0,00:10:40.50,00:10:43.50,Default,,0000,0000,0000,,{Woman}       Remote control and interlock systems, activating.
+Dialogue: 0,00:10:43.50,00:10:45.50,Default,,0000,0000,0000,,{Woman}       / ####### {Couldn't hear this}
+Dialogue: 0,00:10:45.50,00:10:48.50,Default,,0000,0000,0000,,{Koji}        Initiate main power system injection.
+Dialogue: 0,00:10:48.50,00:10:49.50,Default,,0000,0000,0000,,{Koji}        Hurry.
+Dialogue: 0,00:10:49.50,00:10:53.50,Default,,0000,0000,0000,,{Man}         N2 reactor operating at 99%.
+Dialogue: 0,00:10:53.50,00:10:54.50,Default,,0000,0000,0000,,{Woman}       Initiating main power system injection.
+Dialogue: 0,00:10:54.50,00:10:56.50,Default,,0000,0000,0000,,{Woman}       Opening valves up to number 90.
+Dialogue: 0,00:10:56.50,00:10:58.50,Default,,0000,0000,0000,,{Woman}       Transmission pipe connected.
+Dialogue: 0,00:10:58.50,00:11:01.50,Default,,0000,0000,0000,,{Woman}       No problems detected in the port, and 3rd and 4th cargo cage.
+Dialogue: 0,00:11:01.50,00:11:02.50,Default,,0000,0000,0000,,{Man}         Roger.
+Dialogue: 0,00:11:02.50,00:11:04.50,Default,,0000,0000,0000,,{Man}         Opening all valves up to 90.
+Dialogue: 0,00:11:04.50,00:11:06.50,Default,,0000,0000,0000,,{Man}         Begin energy injection.
+Dialogue: 0,00:11:06.50,00:11:08.50,Default,,0000,0000,0000,,{Woman}       Injecting power to N2 reactor.
+Dialogue: 0,00:11:08.50,00:11:08.50,Default,,0000,0000,0000,,{Woman}       All nominal.
+Dialogue: 0,00:11:08.50,00:11:11.50,Default,,0000,0000,0000,,{Woman}       Verifying the interior of the LCL tube.
+Dialogue: 0,00:11:11.50,00:11:13.50,Default,,0000,0000,0000,,{Woman}       Filtration system is go.
+Dialogue: 0,00:11:13.50,00:11:14.50,Default,,0000,0000,0000,,{Maya}        Battle stations!
+Dialogue: 0,00:11:14.50,00:11:16.50,Default,,0000,0000,0000,,{Maya}        Get back to your departments.
+Dialogue: 0,00:11:16.50,00:11:18.50,Default,,0000,0000,0000,,{Maya}        You there! No idling!
+Dialogue: 0,00:11:18.50,00:11:20.50,Default,,0000,0000,0000,,{Worker}      You're asking for the impossible, Ma'am!
+Dialogue: 0,00:11:20.50,00:11:23.50,Default,,0000,0000,0000,,{Worker}      We are something of a mixed group with civilians amongst us, after all.
+Dialogue: 0,00:11:23.50,00:11:25.50,Default,,0000,0000,0000,,{Maya}        No excuses!
+Dialogue: 0,00:11:25.50,00:11:27.50,Default,,0000,0000,0000,,{Maya}        Get to work!
+Dialogue: 0,00:11:27.50,00:11:31.50,Default,,0000,0000,0000,,{Maya}        Ugh, this is why I can't stand younger men.
+Dialogue: 0,00:11:31.50,00:11:34.50,Default,,0000,0000,0000,,{Tama}        Umm... interrupting the transfer here.
+Dialogue: 0,00:11:34.50,00:11:37.50,Default,,0000,0000,0000,,{Tama}        Commencing lockdown of barrier walls... is this it?
+Dialogue: 0,00:11:37.50,00:11:41.50,Default,,0000,0000,0000,,{Midori}      The sonar is in this direction with the bow of the anti-air ship as reference.
+Dialogue: 0,00:11:41.50,00:11:42.50,Default,,0000,0000,0000,,{Aoba}        Kitakami!
+Dialogue: 0,00:11:42.50,00:11:44.50,Default,,0000,0000,0000,,{Aoba}        What's the status of the procedures on deck?
+Dialogue: 0,00:11:44.50,00:11:46.50,Default,,0000,0000,0000,,{Midori}      Am I in charge of that?
+Dialogue: 0,00:11:46.50,00:11:48.50,Default,,0000,0000,0000,,{Aoba}        That's your post! Of course!
+Dialogue: 0,00:11:48.50,00:11:53.50,Default,,0000,0000,0000,,{Midori}      Whaat? For real?
+Dialogue: 0,00:11:53.50,00:11:55.50,Default,,0000,0000,0000,,{Sakura}      The start-up is dangerous.
+Dialogue: 0,00:11:55.50,00:11:57.50,Default,,0000,0000,0000,,{Sakura}      Let's stay here!
+Dialogue: 0,00:11:57.50,00:11:59.50,Default,,0000,0000,0000,,{Woman (BG)}  Preparations for all anti-air defenses concluded, including the guided missiles of the battle ship.
+Dialogue: 0,00:11:59.50,00:12:02.50,Default,,0000,0000,0000,,{Sakura}      Having battle stations on the bridge...
+Dialogue: 0,00:12:02.50,00:12:02.50,Default,,0000,0000,0000,,{Misato}      Roger.
+Dialogue: 0,00:12:02.50,00:12:03.50,Default,,0000,0000,0000,,{Sakura}      It's so nerve-wracking!
+Dialogue: 0,00:12:03.50,00:12:05.50,Default,,0000,0000,0000,,{Misato}      Activate all anti-air systems.
+Dialogue: 0,00:12:05.50,00:12:07.50,Default,,0000,0000,0000,,{Misato}      Safeguarding Eva-01 is our number-one priority.
+Dialogue: 0,00:12:07.50,00:12:17.50,Default,,0000,0000,0000,,{Shinji}      ...Eva-01?
+Dialogue: 0,00:12:17.50,00:12:18.50,Default,,0000,0000,0000,,{Midori}      It's here!
+Dialogue: 0,00:12:18.50,00:12:20.50,Default,,0000,0000,0000,,{Midori}      Confirming the target's pillar of light.
+Dialogue: 0,00:12:20.50,00:12:23.50,Default,,0000,0000,0000,,{Midori}      Its... numbers are increasing somehow!
+Dialogue: 0,00:12:23.50,00:12:25.50,Default,,0000,0000,0000,,{Aoba}        We can't grasp the target's core block.
+Dialogue: 0,00:12:25.50,00:12:28.50,Default,,0000,0000,0000,,{Aoba}        It is probably being concealed on the outside of a phased cocoon.
+Dialogue: 0,00:12:28.50,00:12:30.50,Default,,0000,0000,0000,,{Ritsuko}     This is bad.
+Dialogue: 0,00:12:30.50,00:12:32.50,Default,,0000,0000,0000,,{Ritsuko}     At this rate, we'll be on the receiving end of a saturation bombing.
+Dialogue: 0,00:12:32.50,00:12:34.50,Default,,0000,0000,0000,,{Midori}      600 seconds until contact.
+Dialogue: 0,00:12:34.50,00:12:35.50,Default,,0000,0000,0000,,{Ritsuko}     Captain Katsuragi,
+Dialogue: 0,00:12:35.50,00:12:39.50,Default,,0000,0000,0000,,{Ritsuko}     I propose an immediate dispersal of the fleets.
+Dialogue: 0,00:12:39.50,00:12:42.50,Default,,0000,0000,0000,,{Ritsuko}     We have insufficient crew and limited resources.
+Dialogue: 0,00:12:42.50,00:12:44.50,Default,,0000,0000,0000,,{Ritsuko}     Compounding the problem, this main ship's camouflage equipment is incomplete.
+Dialogue: 0,00:12:44.50,00:12:48.50,Default,,0000,0000,0000,,{Ritsuko}     On top of that, we cannot attack to capture the target's core blocks.
+Dialogue: 0,00:12:48.50,00:12:51.50,Default,,0000,0000,0000,,{Ritsuko}     In other words, our chance of winning is zero.
+Dialogue: 0,00:12:51.50,00:12:53.50,Default,,0000,0000,0000,,{Ritsuko}     At this point, we should retreat like we usually do.
+Dialogue: 0,00:12:53.50,00:12:55.50,Default,,0000,0000,0000,,{Ritsuko}     There is no way.
+Dialogue: 0,00:12:55.50,00:12:57.50,Default,,0000,0000,0000,,{Ritsuko}     Captain Katsuragi!
+Dialogue: 0,00:12:57.50,00:13:02.50,Default,,0000,0000,0000,,{Misato}      This is why I will change the current situation to neutralize any possibly anxiety.
+Dialogue: 0,00:13:02.50,00:13:04.50,Default,,0000,0000,0000,,{Misato}      Vice Captain, we're going to fly.
+Dialogue: 0,00:13:04.50,00:13:05.50,Default,,0000,0000,0000,,{Ritsuko}     Fly?!
+Dialogue: 0,00:13:05.50,00:13:07.50,Default,,0000,0000,0000,,{Ritsuko}     You can't be thinking of using the main ship?
+Dialogue: 0,00:13:07.50,00:13:10.50,Default,,0000,0000,0000,,{Misato}      All hands, prepare for launch!
+Dialogue: 0,00:13:10.50,00:13:13.50,Default,,0000,0000,0000,,{Misato}      Prepare for ignition of the main engines!
+Dialogue: 0,00:13:13.50,00:13:16.50,Default,,0000,0000,0000,,{Ritsuko}     It's too reckless to use the main ship all of a sudden, Captain Katsuragi!
+Dialogue: 0,00:13:16.50,00:13:17.50,Default,,0000,0000,0000,,{Tama}        I agree!
+Dialogue: 0,00:13:17.50,00:13:19.50,Default,,0000,0000,0000,,{Tama}        We haven't even run a test flight. It's too dangerous.
+Dialogue: 0,00:13:19.50,00:13:21.50,Default,,0000,0000,0000,,{Sumire}      Anti-gravity also hasn't been tested.
+Dialogue: 0,00:13:21.50,00:13:23.50,Default,,0000,0000,0000,,{Sumire}      I don't have confidence in it.
+Dialogue: 0,00:13:23.50,00:13:25.50,Default,,0000,0000,0000,,{Midori}      I don't want to fight battles that can't be won.
+Dialogue: 0,00:13:25.50,00:13:27.50,Default,,0000,0000,0000,,{Midori}      I don't want to die just yet.
+Dialogue: 0,00:13:27.50,00:13:29.50,Default,,0000,0000,0000,,{Koji}        You die when you die. That's all there is to it.
+Dialogue: 0,00:13:29.50,00:13:31.50,Default,,0000,0000,0000,,{Koji}        Quit your whining, kids.
+Dialogue: 0,00:13:31.50,00:13:35.50,Default,,0000,0000,0000,,{Midori}      / Wah... Old folks should be more careful! {????!???????????????!?}
+Dialogue: 0,00:13:35.50,00:13:37.50,Default,,0000,0000,0000,,{Misato}      I am aware of the recklessness.
+Dialogue: 0,00:13:37.50,00:13:40.50,Default,,0000,0000,0000,,{Misato}      We will use this ship as decoy and fish them out to the surface!
+Dialogue: 0,00:13:40.50,00:13:43.50,Default,,0000,0000,0000,,{Misato}      The power to kill gods. I will see it through to the end.
+Dialogue: 0,00:13:43.50,00:13:46.50,Default,,0000,0000,0000,,{Ritsuko}     But the most important ignition system has not been installed.
+Dialogue: 0,00:13:46.50,00:13:49.50,Default,,0000,0000,0000,,{Ritsuko}     Don't tell me you're going to use the Evas?
+Dialogue: 0,00:13:49.50,00:13:50.50,Default,,0000,0000,0000,,{Misato}      Mari!
+Dialogue: 0,00:13:50.50,00:13:51.50,Default,,0000,0000,0000,,{Mari}        Eva-08 isn't ready yet.
+Dialogue: 0,00:13:51.50,00:13:52.50,Default,,0000,0000,0000,,{Misato}      Asuka!
+Dialogue: 0,00:13:52.50,00:13:56.50,Default,,0000,0000,0000,,{Shinji}      ...Asuka?
+Dialogue: 0,00:13:56.50,00:13:57.50,Default,,0000,0000,0000,,{Asuka}       I'm already on it!
+Dialogue: 0,00:13:57.50,00:14:00.50,Default,,0000,0000,0000,,{Asuka}       I just have to shove the ignition engine in, right?
+Dialogue: 0,00:14:00.50,00:14:01.50,Default,,0000,0000,0000,,{Misato}      I'm counting on you.
+Dialogue: 0,00:14:01.50,00:14:04.50,Default,,0000,0000,0000,,{Ritsuko}     But there is a problem with the barrier density around the ship.
+Dialogue: 0,00:14:04.50,00:14:06.50,Default,,0000,0000,0000,,{Ritsuko}     Plus, isn't there work being done on the bridge?
+Dialogue: 0,00:14:06.50,00:14:10.50,Default,,0000,0000,0000,,{Asuka}       Well, "prioritize the objective, human life expendable" is a captain's motto, after all.
+Dialogue: 0,00:14:10.50,00:14:11.50,Default,,0000,0000,0000,,{Asuka}       I'm going all out!
+Dialogue: 0,00:14:11.50,00:14:16.50,Default,,0000,0000,0000,,{Asuka}       Eva Unit 02', activate!
+Dialogue: 0,00:14:16.50,00:14:17.50,Default,,0000,0000,0000,,{Woman}       Eva-02' is launching.
+Dialogue: 0,00:14:17.50,00:14:18.50,Default,,0000,0000,0000,,{Woman}       Roger.
+Dialogue: 0,00:14:18.50,00:14:19.50,Default,,0000,0000,0000,,{Woman}       Preparing Eva-02' for launch.
+Dialogue: 0,00:14:19.50,00:14:30.50,Default,,0000,0000,0000,,{Woman}       Underwater motor and jet propulsion, passing through number 1.
+Dialogue: 0,00:14:30.50,00:14:42.50,Default,,0000,0000,0000,,{Asuka}       Really, such a boring entrance for my unit's new looks.
+Dialogue: 0,00:14:42.50,00:14:43.50,Default,,0000,0000,0000,,{Shinji}      It really is Eva-02.
+Dialogue: 0,00:14:43.50,00:14:50.50,Default,,0000,0000,0000,,{Shinji}      Thank god. Asuka is okay.
+Dialogue: 0,00:14:50.50,00:14:53.50,Default,,0000,0000,0000,,{Shinji}      Misato, I...
+Dialogue: 0,00:14:53.50,00:14:57.50,Default,,0000,0000,0000,,{Misato}      All fleets to Primary Battle Stations.
+Dialogue: 0,00:14:57.50,00:14:58.50,Default,,0000,0000,0000,,{Man}         All fleets to Primary Battle Stations.
+Dialogue: 0,00:14:58.50,00:15:01.50,Default,,0000,0000,0000,,{Man}         Repeat, all fleets to Primary Battle Stations.
+Dialogue: 0,00:15:01.50,00:15:04.50,Default,,0000,0000,0000,,{Ritsuko}     Changing battle command system.
+Dialogue: 0,00:15:04.50,00:15:06.50,Default,,0000,0000,0000,,{Ritsuko}     Main crew, to the main bridge.
+Dialogue: 0,00:15:06.50,00:15:07.50,Default,,0000,0000,0000,,{Misato}      Prepare gravity ballast.
+Dialogue: 0,00:15:07.50,00:15:08.50,Default,,0000,0000,0000,,{Sumire}      Roger.
+Dialogue: 0,00:15:08.50,00:15:10.50,Default,,0000,0000,0000,,{Sumire}      All vents, check.
+Dialogue: 0,00:15:10.50,00:15:12.50,Default,,0000,0000,0000,,{Misato}      Centralize the ship's primary controls in the anchor lead plug.
+Dialogue: 0,00:15:12.50,00:15:13.50,Default,,0000,0000,0000,,{Koji}        Roger.
+Dialogue: 0,00:15:13.50,00:15:14.50,Default,,0000,0000,0000,,{Koji}        Prepare for descent.
+Dialogue: 0,00:15:14.50,00:15:15.50,Default,,0000,0000,0000,,{Koji}        Inductor, confirmed.
+Dialogue: 0,00:15:15.50,00:15:19.50,Default,,0000,0000,0000,,{Koji}        Entering countdown.
+Dialogue: 0,00:15:19.50,00:15:21.50,Default,,0000,0000,0000,,{Shinji}      Misato-san!
+Dialogue: 0,00:15:21.50,00:15:24.50,Default,,0000,0000,0000,,{Shinji}      Eva-01 is here, isn't it?
+Dialogue: 0,00:15:24.50,00:15:25.50,Default,,0000,0000,0000,,{Shinji}      I'll pilot too!
+Dialogue: 0,00:15:25.50,00:15:30.50,Default,,0000,0000,0000,,{Shinji}      I'll help Asuka!
+Dialogue: 0,00:15:30.50,00:15:33.50,Default,,0000,0000,0000,,{Shinji}      You don't need me to pilot Eva-01?
+Dialogue: 0,00:15:33.50,00:15:36.50,Default,,0000,0000,0000,,{Shinji}      Misato-san?!
+Dialogue: 0,00:15:36.50,00:15:37.50,Default,,0000,0000,0000,,{Ritsuko}     That's correct.
+Dialogue: 0,00:15:37.50,00:15:39.50,Default,,0000,0000,0000,,{Ritsuko}     There's no need for you to pilot the Eva.
+Dialogue: 0,00:15:39.50,00:15:42.50,Default,,0000,0000,0000,,{Woman}       / ###???????
+Dialogue: 0,00:15:42.50,00:15:46.50,Default,,0000,0000,0000,,{Woman}       Command system is currently being transferred to the battle ship bridge.
+Dialogue: 0,00:15:46.50,00:15:46.50,Default,,0000,0000,0000,,{Woman}       Repeat, command system is currently being transferred to the battle ship bridge.
+Dialogue: 0,00:15:46.50,00:15:49.50,Default,,0000,0000,0000,,{Shinji}      No need?
+Dialogue: 0,00:15:49.50,00:15:54.50,Default,,0000,0000,0000,,{Shinji}      Then... what should I do?
+Dialogue: 0,00:15:54.50,00:15:57.50,Default,,0000,0000,0000,,{Shinji}      Misato-san!
+Dialogue: 0,00:15:57.50,00:16:00.50,Default,,0000,0000,0000,,{Misato}      Ikari Shinji-kun...
+Dialogue: 0,00:16:00.50,00:16:16.50,Default,,0000,0000,0000,,{Misato}      From now on, do nothing.
+Dialogue: 0,00:16:16.50,00:16:17.50,Default,,0000,0000,0000,,{Man (BG)}    LCL being filled with gas.
+Dialogue: 0,00:16:17.50,00:16:18.50,Default,,0000,0000,0000,,{Man (BG)}    Electrification density cleared.
+Dialogue: 0,00:16:18.50,00:16:20.50,Default,,0000,0000,0000,,{Ritsuko}     Begin entry.
+Dialogue: 0,00:16:20.50,00:16:22.50,Default,,0000,0000,0000,,{Woman (BG)}  Status of LCL electric charge is nominal.
+Dialogue: 0,00:16:22.50,00:16:24.50,Default,,0000,0000,0000,,{Woman (BG)}  Starting all integrated operating systems.
+Dialogue: 0,00:16:24.50,00:16:25.50,Default,,0000,0000,0000,,{Misato}      What's our status?
+Dialogue: 0,00:16:25.50,00:16:27.50,Default,,0000,0000,0000,,{Woman}       Roll-call of all personnel is complete.
+Dialogue: 0,00:16:27.50,00:16:28.50,Default,,0000,0000,0000,,{Woman}       All confirmed on board.
+Dialogue: 0,00:16:28.50,00:16:30.50,Default,,0000,0000,0000,,{Woman (BG)}  First list cleared.
+Dialogue: 0,00:16:30.50,00:16:32.50,Default,,0000,0000,0000,,{Man}         Closure of all barrier walls confirmed.
+Dialogue: 0,00:16:32.50,00:16:33.50,Default,,0000,0000,0000,,{Man}         Terminating pressure resistance check.
+Dialogue: 0,00:16:33.50,00:16:35.50,Default,,0000,0000,0000,,{Woman (BG)}  Output of auxiliary components is currently climbing.
+Dialogue: 0,00:16:35.50,00:16:38.50,Default,,0000,0000,0000,,{Koji}        Injecting power for initial system activation.
+Dialogue: 0,00:16:38.50,00:16:40.50,Default,,0000,0000,0000,,{Koji}        5% until it hits critical.
+Dialogue: 0,00:16:40.50,00:16:41.50,Default,,0000,0000,0000,,{Sumire}      Initiating gyro-compass.
+Dialogue: 0,00:16:41.50,00:16:43.50,Default,,0000,0000,0000,,{Sumire}      Stabilizer nominal.
+Dialogue: 0,00:16:43.50,00:16:45.50,Default,,0000,0000,0000,,{Woman (BG)}  Commencing visual data processing.
+Dialogue: 0,00:16:45.50,00:16:47.50,Default,,0000,0000,0000,,{Woman (BG)}  Turning on the main monitor.
+Dialogue: 0,00:16:47.50,00:16:49.50,Default,,0000,0000,0000,,{Hyuga}       Target is still closing in.
+Dialogue: 0,00:16:49.50,00:16:51.50,Default,,0000,0000,0000,,{Hyuga}       Currently taking on an encircling formation.
+Dialogue: 0,00:16:51.50,00:16:53.50,Default,,0000,0000,0000,,{Aoba}        Eva-02' deploying propellors.
+Dialogue: 0,00:16:53.50,00:16:55.50,Default,,0000,0000,0000,,{Aoba}        Left arm is being switched out.
+Dialogue: 0,00:16:55.50,00:17:04.50,Default,,0000,0000,0000,,{Asuka}       Here we go!
+Dialogue: 0,00:17:04.50,00:17:06.50,Default,,0000,0000,0000,,{Asuka}       Well then!
+Dialogue: 0,00:17:06.50,00:17:14.50,Default,,0000,0000,0000,,{Asuka}       Let's do it!
+Dialogue: 0,00:17:14.50,00:17:19.50,Default,,0000,0000,0000,,{Asuka}       Spreading A.T. Field.
+Dialogue: 0,00:17:19.50,00:17:22.50,Default,,0000,0000,0000,,{Aoba}        They changed into pillars of light.
+Dialogue: 0,00:17:22.50,00:17:23.50,Default,,0000,0000,0000,,{Midori}      Their energy is rocketing!
+Dialogue: 0,00:17:23.50,00:17:28.50,Default,,0000,0000,0000,,{Hyuga}       All targets are starting to move.
+Dialogue: 0,00:17:28.50,00:17:29.50,Default,,0000,0000,0000,,{Aoba}        Ally ships have been evaporated!
+Dialogue: 0,00:17:29.50,00:17:31.50,Default,,0000,0000,0000,,{Ritsuko}     It's a saturation attack.
+Dialogue: 0,00:17:31.50,00:17:34.50,Default,,0000,0000,0000,,{Ritsuko}     If this ship gets caught too, it's all over.
+Dialogue: 0,00:17:34.50,00:17:44.50,Default,,0000,0000,0000,,{Midori (BG)} Another 360 seconds until contact!
+Dialogue: 0,00:17:44.50,00:17:48.50,Default,,0000,0000,0000,,{Asuka}       Here we go!
+Dialogue: 0,00:17:48.50,00:17:50.50,Default,,0000,0000,0000,,{Aoba}        Eva-02' has commenced operations.
+Dialogue: 0,00:17:50.50,00:17:52.50,Default,,0000,0000,0000,,{Man (BG)}    / ######300%!
+Dialogue: 0,00:17:52.50,00:17:53.50,Default,,0000,0000,0000,,{Koji}        No matter!
+Dialogue: 0,00:17:53.50,00:17:55.50,Default,,0000,0000,0000,,{Koji}        Transfer all energy to the flywheel!
+Dialogue: 0,00:17:55.50,00:18:07.50,Default,,0000,0000,0000,,{Koji}        Give that top priority!
+Dialogue: 0,00:18:07.50,00:18:07.50,Default,,0000,0000,0000,,{Woman (BG)}  / ?80###????##?????!
+Dialogue: 0,00:18:07.50,00:18:09.50,Default,,0000,0000,0000,,{Tama}        Converter Group No. 7 has exploded!
+Dialogue: 0,00:18:09.50,00:18:11.50,Default,,0000,0000,0000,,{Koji}        Disregard the downed lines!
+Dialogue: 0,00:18:11.50,00:18:13.50,Default,,0000,0000,0000,,{Koji}        Continue the forced injection!
+Dialogue: 0,00:18:13.50,00:18:14.50,Default,,0000,0000,0000,,{Koji}        Ignore all pressure meters!
+Dialogue: 0,00:18:14.50,00:18:17.50,Default,,0000,0000,0000,,{Tama}        Releasing the lock on the flywheel crimp.
+Dialogue: 0,00:18:17.50,00:18:26.50,Default,,0000,0000,0000,,{Tama}        Beginning rotation!
+Dialogue: 0,00:18:26.50,00:18:29.50,Default,,0000,0000,0000,,{Man (BG)}    Initiating main energy pump.
+Dialogue: 0,00:18:29.50,00:18:31.50,Default,,0000,0000,0000,,{Tama}        Auxiliary component output has reached 80%.
+Dialogue: 0,00:18:31.50,00:18:49.50,Default,,0000,0000,0000,,{Koji}        Force insert the catalyst!
+Dialogue: 0,00:18:49.50,00:18:52.50,Default,,0000,0000,0000,,{Asuka}       So now there's...
+Dialogue: 0,00:18:52.50,00:18:54.50,Default,,0000,0000,0000,,{Midori}      39 seconds remaining!
+Dialogue: 0,00:18:54.50,00:18:56.50,Default,,0000,0000,0000,,{Man (BG)}    Rotational speed currently climbing!
+Dialogue: 0,00:18:56.50,00:18:58.50,Default,,0000,0000,0000,,{Aoba}        Eva-02' maintaining critical pressure.
+Dialogue: 0,00:18:58.50,00:18:59.50,Default,,0000,0000,0000,,{Tama}        We're there!
+Dialogue: 0,00:18:59.50,00:19:02.50,Default,,0000,0000,0000,,{Tama}        Fly wheel charged to 102%, over critical!
+Dialogue: 0,00:19:02.50,00:19:04.50,Default,,0000,0000,0000,,{Koji}        We're in the final stage of activation.
+Dialogue: 0,00:19:04.50,00:19:05.50,Default,,0000,0000,0000,,{Misato}      Roger.
+Dialogue: 0,00:19:05.50,00:19:06.50,Default,,0000,0000,0000,,{Misato}      Switch to flight controls.
+Dialogue: 0,00:19:06.50,00:19:07.50,Default,,0000,0000,0000,,{Sumire}      Roger.
+Dialogue: 0,00:19:07.50,00:19:08.50,Default,,0000,0000,0000,,{Sumire}      Starting ground to air regulation.
+Dialogue: 0,00:19:08.50,00:19:12.50,Default,,0000,0000,0000,,{Sumire}      Transferring to 3D-type steering.
+Dialogue: 0,00:19:12.50,00:19:14.50,Default,,0000,0000,0000,,{Misato}      Deploy the A.T. Field at the same time we fire up.
+Dialogue: 0,00:19:14.50,00:19:17.50,Default,,0000,0000,0000,,{Tama}        Rotation rate 36000. All green.
+Dialogue: 0,00:19:17.50,00:19:19.50,Default,,0000,0000,0000,,{Koji}        Coming into contact!
+Dialogue: 0,00:19:19.50,00:19:20.50,Default,,0000,0000,0000,,{Misato}      Omit countdown.
+Dialogue: 0,00:19:20.50,00:19:21.50,Default,,0000,0000,0000,,{Misato}      Main contact.
+Dialogue: 0,00:19:21.50,00:19:26.50,Default,,0000,0000,0000,,{Koji}        Contact!
+Dialogue: 0,00:19:26.50,00:19:44.50,Default,,0000,0000,0000,,{Misato}      Ignite!
+Dialogue: 0,00:19:44.50,00:19:45.50,Default,,0000,0000,0000,,{Midori}      Obstacles cleared.
+Dialogue: 0,00:19:45.50,00:19:46.50,Default,,0000,0000,0000,,{Ritsuko}     Confirming all divisions.
+Dialogue: 0,00:19:46.50,00:19:46.50,Default,,0000,0000,0000,,{Misato}      / 16?###?
+Dialogue: 0,00:19:46.50,00:19:48.50,Default,,0000,0000,0000,,{Ritsuko}     Consort ships have all retreated.
+Dialogue: 0,00:19:48.50,00:19:49.50,Default,,0000,0000,0000,,{Misato}      Here we go.
+Dialogue: 0,00:19:49.50,00:20:40.50,Default,,0000,0000,0000,,{Misato}      Wunder, launch!
+Dialogue: 0,00:20:40.50,00:20:42.50,Default,,0000,0000,0000,,{Tama}        Main wings penetrated! Damage unknown!
+Dialogue: 0,00:20:42.50,00:20:43.50,Default,,0000,0000,0000,,{Misato}      Don't sweat it!
+Dialogue: 0,00:20:43.50,00:20:44.50,Default,,0000,0000,0000,,{Misato}      Prepare for a full-scale counterattack.
+Dialogue: 0,00:20:44.50,00:20:45.50,Default,,0000,0000,0000,,{Misato}      Upend the ship!
+Dialogue: 0,00:20:45.50,00:20:46.50,Default,,0000,0000,0000,,{Misato}      Go astern!
+Dialogue: 0,00:20:46.50,00:20:54.50,Default,,0000,0000,0000,,{Sumire}      Go astern! Forward, ho!
+Dialogue: 0,00:20:54.50,00:21:03.50,Default,,0000,0000,0000,,{Misato}      Pull out the remains of the core blocks from the phased cocoon.
+Dialogue: 0,00:21:03.50,00:21:05.50,Default,,0000,0000,0000,,{Tama}        Cracks have been sustained on the ends of the main wings!
+Dialogue: 0,00:21:05.50,00:21:06.50,Default,,0000,0000,0000,,{Misato}      Keep the rudder steady!
+Dialogue: 0,00:21:06.50,00:21:08.50,Default,,0000,0000,0000,,{Misato}      Run main engines at full power!
+Dialogue: 0,00:21:08.50,00:21:10.50,Default,,0000,0000,0000,,{Koji}        Both sides at maximum!
+Dialogue: 0,00:21:10.50,00:21:38.50,Default,,0000,0000,0000,,{Sumire}      Full throttle!
+Dialogue: 0,00:21:38.50,00:21:40.50,Default,,0000,0000,0000,,{Midori}      The core blocks are out!
+Dialogue: 0,00:21:40.50,00:21:41.50,Default,,0000,0000,0000,,{Misato}      Now!
+Dialogue: 0,00:21:41.50,00:21:42.50,Default,,0000,0000,0000,,{Misato}      Port full power!
+Dialogue: 0,00:21:42.50,00:21:43.50,Default,,0000,0000,0000,,{Misato}      Swing it around!
+Dialogue: 0,00:21:43.50,00:22:10.50,Default,,0000,0000,0000,,{Sumire}      Roger!
+Dialogue: 0,00:22:10.50,00:22:11.50,Default,,0000,0000,0000,,{Misato}      Thrusters at full power!
+Dialogue: 0,00:22:11.50,00:22:22.50,Default,,0000,0000,0000,,{Misato}      Crash stop!
+Dialogue: 0,00:22:22.50,00:22:23.50,Default,,0000,0000,0000,,{Aoba}        Target is silent!
+Dialogue: 0,00:22:23.50,00:22:25.50,Default,,0000,0000,0000,,{Misato}      All cannons prepare to fire!
+Dialogue: 0,00:22:25.50,00:22:27.50,Default,,0000,0000,0000,,{Misato}      Load energy penetrating ammunition.
+Dialogue: 0,00:22:27.50,00:22:29.50,Default,,0000,0000,0000,,{Misato}      Connect all cannons to main ship.
+Dialogue: 0,00:22:29.50,00:22:30.50,Default,,0000,0000,0000,,{Misato}      Open ammunition supplying circuits!
+Dialogue: 0,00:22:30.50,00:22:33.50,Default,,0000,0000,0000,,{Koji}        Roger. Opening circuits.
+Dialogue: 0,00:22:33.50,00:22:35.50,Default,,0000,0000,0000,,{Midori}      Applying final corrections to computed enemy trajectories!
+Dialogue: 0,00:22:35.50,00:22:37.50,Default,,0000,0000,0000,,{Woman (BG)}  Artillery systems are interlocked.
+Dialogue: 0,00:22:37.50,00:22:40.50,Default,,0000,0000,0000,,{Hyuga}       Direct aim and manual pursuit, good to go on all cannons.
+Dialogue: 0,00:22:40.50,00:22:41.50,Default,,0000,0000,0000,,{Misato}      Then we're all set.
+Dialogue: 0,00:22:41.50,00:23:06.50,Default,,0000,0000,0000,,{Misato}      FIRE!
+Dialogue: 0,00:23:06.50,00:23:08.50,Default,,0000,0000,0000,,{Aoba}        Target destroyed!
+Dialogue: 0,00:23:08.50,00:23:10.50,Default,,0000,0000,0000,,{Misato}      All fleets, go to secondary state of alert.
+Dialogue: 0,00:23:10.50,00:23:12.50,Default,,0000,0000,0000,,{Misato}      Prepare to retrieve Eva-02'.
+Dialogue: 0,00:23:12.50,00:23:16.50,Default,,0000,0000,0000,,{Misato}      Hurry with emergency procedures for the main wings.
+Dialogue: 0,00:23:16.50,00:23:17.50,Default,,0000,0000,0000,,{Tama}        Amazing!
+Dialogue: 0,00:23:17.50,00:23:19.50,Default,,0000,0000,0000,,{Midori}      We really won.
+Dialogue: 0,00:23:19.50,00:23:22.50,Default,,0000,0000,0000,,{Koji}        How totally reckless.
+Dialogue: 0,00:23:22.50,00:23:25.50,Default,,0000,0000,0000,,{Koji}        Well, she's an even more interesting captain than Kaji said.
+Dialogue: 0,00:23:25.50,00:23:27.50,Default,,0000,0000,0000,,{Ritsuko}     So this is the power to kill gods.
+Dialogue: 0,00:23:27.50,00:24:10.50,Default,,0000,0000,0000,,{Ritsuko}     Wunder really is the ship of hope.
+Dialogue: 0,00:24:10.50,00:24:13.50,Default,,0000,0000,0000,,{Sakura}      Specimen BM03, Tentative Name Ikari Shinji-san...
+Dialogue: 0,00:24:13.50,00:24:16.50,Default,,0000,0000,0000,,{Sakura}      The executive officer will have a word with you.
+Dialogue: 0,00:24:16.50,00:24:18.50,Default,,0000,0000,0000,,{Shinji}      This is Eva-01...?
+Dialogue: 0,00:24:18.50,00:24:23.50,Default,,0000,0000,0000,,{Ritsuko}     Yes. Eva-01 is being used as the main engine of this ship.
+Dialogue: 0,00:24:23.50,00:24:26.50,Default,,0000,0000,0000,,{Ritsuko}     Consequently, you serve no function as a pilot.
+Dialogue: 0,00:24:26.50,00:24:29.50,Default,,0000,0000,0000,,{Shinji}      Ah, so I really am not needed.
+Dialogue: 0,00:24:29.50,00:24:33.50,Default,,0000,0000,0000,,{Ritsuko}     Also, your sync test results have come back.
+Dialogue: 0,00:24:33.50,00:24:36.50,Default,,0000,0000,0000,,{Ritsuko}     The sync rate is 0.00%.
+Dialogue: 0,00:24:36.50,00:24:40.50,Default,,0000,0000,0000,,{Ritsuko}     Even if you were to get in the Eva, it wouldn't activate.
+Dialogue: 0,00:24:40.50,00:24:41.50,Default,,0000,0000,0000,,{Sakura}      Really?
+Dialogue: 0,00:24:41.50,00:24:43.50,Default,,0000,0000,0000,,{Sakura}      Isn't that great news, Ikari-san?
+Dialogue: 0,00:24:43.50,00:24:49.50,Default,,0000,0000,0000,,{Ritsuko}     Even so, we cannot overlook the fact that, earlier, Eva-01 suddenly entered an Awakened state for 12 seconds.
+Dialogue: 0,00:24:49.50,00:24:54.50,Default,,0000,0000,0000,,{Ritsuko}     As a result, the DSS Choker has been installed on you.
+Dialogue: 0,00:24:54.50,00:24:55.50,Default,,0000,0000,0000,,{Shinji}      What is this?
+Dialogue: 0,00:24:55.50,00:24:58.50,Default,,0000,0000,0000,,{Ritsuko}     Safety for us.
+Dialogue: 0,00:24:58.50,00:25:01.50,Default,,0000,0000,0000,,{Ritsuko}     It's a physical safety device to circumvent Awakenings.
+Dialogue: 0,00:25:01.50,00:25:05.50,Default,,0000,0000,0000,,{Ritsuko}     And it is also a symbol of your punishment.
+Dialogue: 0,00:25:05.50,00:25:06.50,Default,,0000,0000,0000,,{Shinji}      What does it do?
+Dialogue: 0,00:25:06.50,00:25:14.50,Default,,0000,0000,0000,,{Ritsuko}     If you lose control of your emotions while piloting an Eva and become unable to suppress the risk of Awakening,
+Dialogue: 0,00:25:14.50,00:25:18.50,Default,,0000,0000,0000,,{Ritsuko}     this will intervene by terminating your life.
+Dialogue: 0,00:25:18.50,00:25:23.50,Default,,0000,0000,0000,,{Shinji}      Does that mean... I will die?
+Dialogue: 0,00:25:23.50,00:25:26.50,Default,,0000,0000,0000,,{Ritsuko}     I will not deny that.
+Dialogue: 0,00:25:26.50,00:25:28.50,Default,,0000,0000,0000,,{Shinji}      No way...
+Dialogue: 0,00:25:28.50,00:25:32.50,Default,,0000,0000,0000,,{Shinji}      Misato-san, what is all this about dying?
+Dialogue: 0,00:25:32.50,00:25:34.50,Default,,0000,0000,0000,,{Shinji}      This is weird, Misato-san!
+Dialogue: 0,00:25:34.50,00:25:37.50,Default,,0000,0000,0000,,{Shinji}      Suddenly it's all so confusing, and I don't understand anything!
+Dialogue: 0,00:25:37.50,00:25:38.50,Default,,0000,0000,0000,,{Ritsuko}     It can't be helped that you're confused.
+Dialogue: 0,00:25:38.50,00:25:39.50,Default,,0000,0000,0000,,{Ritsuko}     Second Lieutenant!
+Dialogue: 0,00:25:39.50,00:25:40.50,Default,,0000,0000,0000,,{Sakura}      Yes, ma'am!
+Dialogue: 0,00:25:40.50,00:25:41.50,Default,,0000,0000,0000,,{Ritsuko}     Introduce yourself.
+Dialogue: 0,00:25:41.50,00:25:43.50,Default,,0000,0000,0000,,{Sakura}      Yes, ma'am!
+Dialogue: 0,00:25:43.50,00:25:48.50,Default,,0000,0000,0000,,{Sakura}      Um, it's late, but I'm the medical officer in charge,
+Dialogue: 0,00:25:48.50,00:25:51.50,Default,,0000,0000,0000,,{Sakura}      2nd Lt. Suzuhara Sakura.
+Dialogue: 0,00:25:51.50,00:25:53.50,Default,,0000,0000,0000,,{Sakura}      Nice to meet you.
+Dialogue: 0,00:25:53.50,00:25:56.50,Default,,0000,0000,0000,,{Shinji}      Ah, s-same.
+Dialogue: 0,00:25:56.50,00:25:58.50,Default,,0000,0000,0000,,{Shinji}      But, "Suzuhara"...
+Dialogue: 0,00:25:58.50,00:26:00.50,Default,,0000,0000,0000,,{Shinji}      Are you Toji's...?
+Dialogue: 0,00:26:00.50,00:26:01.50,Default,,0000,0000,0000,,{Sakura}      Ah, yes.
+Dialogue: 0,00:26:01.50,00:26:03.50,Default,,0000,0000,0000,,{Sakura}      I owe everything to my big brother.
+Dialogue: 0,00:26:03.50,00:26:05.50,Default,,0000,0000,0000,,{Sakura}      I'm his little sister Sakura.
+Dialogue: 0,00:26:05.50,00:26:06.50,Default,,0000,0000,0000,,{Shinji}      Little sister?
+Dialogue: 0,00:26:06.50,00:26:07.50,Default,,0000,0000,0000,,{Shinji}      Don't you mean big sister?
+Dialogue: 0,00:26:07.50,00:26:11.50,Default,,0000,0000,0000,,{Sakura}      No, little sister.
+Dialogue: 0,00:26:11.50,00:26:14.50,Default,,0000,0000,0000,,{Shinji}      Little sister...? How?
+Dialogue: 0,00:26:14.50,00:26:17.50,Default,,0000,0000,0000,,{Asuka}       Fourteen years have passed since then.
+Dialogue: 0,00:26:17.50,00:26:19.50,Default,,0000,0000,0000,,{Asuka}       Stupid Shinji.
+Dialogue: 0,00:26:19.50,00:26:25.50,Default,,0000,0000,0000,,{Shinji}      Huh? Ah, Asuka!
+Dialogue: 0,00:26:25.50,00:26:26.50,Default,,0000,0000,0000,,{Shinji}      Thank god.
+Dialogue: 0,00:26:26.50,00:26:33.50,Default,,0000,0000,0000,,{Shinji}      You really are safe, Asuka!
+Dialogue: 0,00:26:33.50,00:26:35.50,Default,,0000,0000,0000,,{Asuka}       I can't stand it.
+Dialogue: 0,00:26:35.50,00:26:44.50,Default,,0000,0000,0000,,{Asuka}       I've been holding this in.
+Dialogue: 0,00:26:44.50,00:26:46.50,Default,,0000,0000,0000,,{Shinji}      What was that all about...?
+Dialogue: 0,00:26:46.50,00:26:49.50,Default,,0000,0000,0000,,{Asuka}       Built up anger and grief.
+Dialogue: 0,00:26:49.50,00:26:51.50,Default,,0000,0000,0000,,{Shinji}      What do you mean...?
+Dialogue: 0,00:26:51.50,00:26:54.50,Default,,0000,0000,0000,,{Shinji}      Uh, Asuka, your left eye...
+Dialogue: 0,00:26:54.50,00:26:56.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:26:56.50,00:26:59.50,Default,,0000,0000,0000,,{Shinji}      Asuka, you said it's been fourteen years,
+Dialogue: 0,00:26:59.50,00:27:02.50,Default,,0000,0000,0000,,{Shinji}      but the only thing that's changed about you is that eyepatch.
+Dialogue: 0,00:27:02.50,00:27:05.50,Default,,0000,0000,0000,,{Asuka}       Right. It's the Curse of Eva.
+Dialogue: 0,00:27:05.50,00:27:09.50,Default,,0000,0000,0000,,{Shinji}      A curse?
+Dialogue: 0,00:27:09.50,00:27:10.50,Default,,0000,0000,0000,,{Shinji}      Wait!
+Dialogue: 0,00:27:10.50,00:27:12.50,Default,,0000,0000,0000,,{Shinji}      Asuka, maybe you know!
+Dialogue: 0,00:27:12.50,00:27:15.50,Default,,0000,0000,0000,,{Shinji}      Where's Ayanami?!
+Dialogue: 0,00:27:15.50,00:27:16.50,Default,,0000,0000,0000,,{Asuka}       Dunno.
+Dialogue: 0,00:27:16.50,00:27:18.50,Default,,0000,0000,0000,,{Shinji}      You don't know...?
+Dialogue: 0,00:27:18.50,00:27:20.50,Default,,0000,0000,0000,,{Shinji}      But I saved her!
+Dialogue: 0,00:27:20.50,00:27:22.50,Default,,0000,0000,0000,,{Asuka}       All this fuss over just one person.
+Dialogue: 0,00:27:22.50,00:27:26.50,Default,,0000,0000,0000,,{Asuka}       This world doesn't have time to cater to your ego.
+Dialogue: 0,00:27:26.50,00:27:32.50,Default,,0000,0000,0000,,{Asuka}       Isn't that right, Captain Katsuragi?
+Dialogue: 0,00:27:32.50,00:27:33.50,Default,,0000,0000,0000,,{Shinji}      Asuka!
+Dialogue: 0,00:27:33.50,00:27:36.50,Default,,0000,0000,0000,,{Shinji}      Misato-san, where's Ayanami?!
+Dialogue: 0,00:27:36.50,00:27:37.50,Default,,0000,0000,0000,,{Shinji}      You've got to tell me!
+Dialogue: 0,00:27:37.50,00:27:41.50,Default,,0000,0000,0000,,{Misato}      Shinji-kun, Ayanami Rei no longer exists.
+Dialogue: 0,00:27:41.50,00:27:44.50,Default,,0000,0000,0000,,{Shinji}      No, I saved her, I know I did.
+Dialogue: 0,00:27:44.50,00:27:47.50,Default,,0000,0000,0000,,{Shinji}      She must still be in Eva-01's plug.
+Dialogue: 0,00:27:47.50,00:27:48.50,Default,,0000,0000,0000,,{Shinji}      Please, search for her!
+Dialogue: 0,00:27:48.50,00:27:52.50,Default,,0000,0000,0000,,{Ritsuko}     We've already conducted a thorough sweep of Eva-01.
+Dialogue: 0,00:27:52.50,00:27:55.50,Default,,0000,0000,0000,,{Ritsuko}     We only found you.
+Dialogue: 0,00:27:55.50,00:27:58.50,Default,,0000,0000,0000,,{Ritsuko}     And for some reason, this was restored.
+Dialogue: 0,00:27:58.50,00:28:02.50,Default,,0000,0000,0000,,{Ritsuko}     The inspection yielded no problems. We'll return it.
+Dialogue: 0,00:28:02.50,00:28:05.50,Default,,0000,0000,0000,,{Shinji}      My father's...
+Dialogue: 0,00:28:05.50,00:28:08.50,Default,,0000,0000,0000,,{Shinji}      Ayanami was holding it then.
+Dialogue: 0,00:28:08.50,00:28:11.50,Default,,0000,0000,0000,,{Shinji}      So I saved her, didn't I?
+Dialogue: 0,00:28:11.50,00:28:14.50,Default,,0000,0000,0000,,{Shinji}      What?!
+Dialogue: 0,00:28:14.50,00:28:16.50,Default,,0000,0000,0000,,{Misato}      It's me.
+Dialogue: 0,00:28:16.50,00:28:17.50,Default,,0000,0000,0000,,{Hyuga}       Target is on the rear deck!
+Dialogue: 0,00:28:17.50,00:28:19.50,Default,,0000,0000,0000,,{Hyuga}       It suddenly closed in on us!
+Dialogue: 0,00:28:19.50,00:28:20.50,Default,,0000,0000,0000,,{Misato}      So the champion is on the scene...
+Dialogue: 0,00:28:20.50,00:28:22.50,Default,,0000,0000,0000,,{Misato}      All fleets to Primary Battle Stations.
+Dialogue: 0,00:28:22.50,00:28:24.50,Default,,0000,0000,0000,,{Misato}      Safeguarding Eva-01 is top priority!
+Dialogue: 0,00:28:24.50,00:28:26.50,Default,,0000,0000,0000,,{Asuka}       Eva-08, you're ready to go, right?
+Dialogue: 0,00:28:26.50,00:28:28.50,Default,,0000,0000,0000,,{Mari}        But of course.
+Dialogue: 0,00:28:28.50,00:28:29.50,Default,,0000,0000,0000,,{Mari}        I'm right on top of it, Princess.
+Dialogue: 0,00:28:29.50,00:28:32.50,Default,,0000,0000,0000,,{Mari}        By the way, how was Puppy Boy?
+Dialogue: 0,00:28:32.50,00:28:34.50,Default,,0000,0000,0000,,{Mari}        Is he obediently staying put?
+Dialogue: 0,00:28:34.50,00:28:38.50,Default,,0000,0000,0000,,{Asuka}       Nothing's changed about his stupid lowly face.
+Dialogue: 0,00:28:38.50,00:28:41.50,Default,,0000,0000,0000,,{Mari}        Oh, so you went to go see his face, did you?
+Dialogue: 0,00:28:41.50,00:28:42.50,Default,,0000,0000,0000,,{Asuka}       No!
+Dialogue: 0,00:28:42.50,00:28:44.50,Default,,0000,0000,0000,,{Asuka}       I just threw a punch at him!
+Dialogue: 0,00:28:44.50,00:28:45.50,Default,,0000,0000,0000,,{Asuka}       I feel much better now.
+Dialogue: 0,00:28:45.50,00:28:47.50,Default,,0000,0000,0000,,{Shinji}      Misato-san, Ritsuko-san!
+Dialogue: 0,00:28:47.50,00:28:49.50,Default,,0000,0000,0000,,{Shinji}      Just who is coming?
+Dialogue: 0,00:28:49.50,00:28:51.50,Default,,0000,0000,0000,,{Shinji}      Is it a new Angel?!
+Dialogue: 0,00:28:51.50,00:28:54.50,Default,,0000,0000,0000,,{Rei}         Ikari-kun, where are you?
+Dialogue: 0,00:28:54.50,00:28:56.50,Default,,0000,0000,0000,,{Shinji}      Ayanami?
+Dialogue: 0,00:28:56.50,00:28:59.50,Default,,0000,0000,0000,,{Shinji}      That was Ayanami's voice just now, wasn't it?!
+Dialogue: 0,00:28:59.50,00:29:03.50,Default,,0000,0000,0000,,{Shinji}      Misa-
+Dialogue: 0,00:29:03.50,00:29:05.50,Default,,0000,0000,0000,,{Shinji}      What is going on here?!
+Dialogue: 0,00:29:05.50,00:29:06.50,Default,,0000,0000,0000,,{Sakura}      Preparations complete!
+Dialogue: 0,00:29:06.50,00:29:08.50,Default,,0000,0000,0000,,{Sakura}      Ikari-san, this way!
+Dialogue: 0,00:29:08.50,00:29:11.50,Default,,0000,0000,0000,,{Rei}         Ikari-kun, where are you?
+Dialogue: 0,00:29:11.50,00:29:14.50,Default,,0000,0000,0000,,{Shinji}      It really is Ayanami.
+Dialogue: 0,00:29:14.50,00:29:16.50,Default,,0000,0000,0000,,{Shinji}      It's Ayanami!
+Dialogue: 0,00:29:16.50,00:29:21.50,Default,,0000,0000,0000,,{Sakura}      Ikari-san! Quickly!
+Dialogue: 0,00:29:21.50,00:29:23.50,Default,,0000,0000,0000,,{Shinji}      Enough.
+Dialogue: 0,00:29:23.50,00:29:38.50,Default,,0000,0000,0000,,{Shinji}      Ayanami, I'm right here!
+Dialogue: 0,00:29:38.50,00:29:40.50,Default,,0000,0000,0000,,{Shinji}      Eva... Unit 00.
+Dialogue: 0,00:29:40.50,00:29:42.50,Default,,0000,0000,0000,,{Rei}         Ikari-kun...
+Dialogue: 0,00:29:42.50,00:29:45.50,Default,,0000,0000,0000,,{Rei}         Come this way.
+Dialogue: 0,00:29:45.50,00:29:47.50,Default,,0000,0000,0000,,{Misato}      Don't do it, Shinji-kun.
+Dialogue: 0,00:29:47.50,00:29:48.50,Default,,0000,0000,0000,,{Misato}      Just stay right here.
+Dialogue: 0,00:29:48.50,00:29:51.50,Default,,0000,0000,0000,,{Shinji}      What's with that, Misato-san?
+Dialogue: 0,00:29:51.50,00:29:53.50,Default,,0000,0000,0000,,{Shinji}      Weren't you just saying a moment ago that you didn't need me?
+Dialogue: 0,00:29:53.50,00:29:55.50,Default,,0000,0000,0000,,{Misato}      Even so, you'll be kept in our custody.
+Dialogue: 0,00:29:55.50,00:30:03.50,Default,,0000,0000,0000,,{Shinji}      That's just too one-sided!
+Dialogue: 0,00:30:03.50,00:50:03.50,Default,,0000,0000,0000,,{Shinji}      Please stop it!
+Dialogue: 0,00:50:03.50,00:30:05.50,Default,,0000,0000,0000,,{Shinji}      The target is an Eva!
+Dialogue: 0,00:30:05.50,00:30:07.50,Default,,0000,0000,0000,,{Misato}      That's why.
+Dialogue: 0,00:30:07.50,00:30:09.50,Default,,0000,0000,0000,,{Misato}      We will eradicate all of Nerv's Evas.
+Dialogue: 0,00:30:09.50,00:30:11.50,Default,,0000,0000,0000,,{Shinji}      Nerv...
+Dialogue: 0,00:30:11.50,00:30:12.50,Default,,0000,0000,0000,,{Shinji}      This isn't Nerv, too?
+Dialogue: 0,00:30:12.50,00:30:17.50,Default,,0000,0000,0000,,{Misato}      We are Wille, an organization dedicated to Nerv's annihilation.
+Dialogue: 0,00:30:17.50,00:30:19.50,Default,,0000,0000,0000,,{Shinji}      That's...
+Dialogue: 0,00:30:19.50,00:30:22.50,Default,,0000,0000,0000,,{Shinji}      No, but it's being piloted by Ayanami!
+Dialogue: 0,00:30:22.50,00:30:23.50,Default,,0000,0000,0000,,{Misato}      It's not her!
+Dialogue: 0,00:30:23.50,00:30:25.50,Default,,0000,0000,0000,,{Misato}      Rei is gone, Shinji-kun.
+Dialogue: 0,00:30:25.50,00:30:26.50,Default,,0000,0000,0000,,{Shinji}      Liar!
+Dialogue: 0,00:30:26.50,00:30:28.50,Default,,0000,0000,0000,,{Shinji}      I mean, she's right here, isn't she?!
+Dialogue: 0,00:30:28.50,00:30:30.50,Default,,0000,0000,0000,,{Shinji}      You're just daft, Misato-san!
+Dialogue: 0,00:30:30.50,00:30:34.50,Default,,0000,0000,0000,,{Shinji}      I've had enough!
+Dialogue: 0,00:30:34.50,00:30:37.50,Default,,0000,0000,0000,,{Sakura}      Ikari-san!
+Dialogue: 0,00:30:37.50,00:30:39.50,Default,,0000,0000,0000,,{Sakura}      It's okay if you go back, but...
+Dialogue: 0,00:30:39.50,00:30:41.50,Default,,0000,0000,0000,,{Sakura}      Please, whatever you do, don't pilot an Eva!
+Dialogue: 0,00:30:41.50,00:30:53.50,Default,,0000,0000,0000,,{Sakura}      We really could use a break...
+Dialogue: 0,00:30:53.50,00:30:54.50,Default,,0000,0000,0000,,{Asuka}       Glasses, don't let it get away!
+Dialogue: 0,00:30:54.50,00:30:58.50,Default,,0000,0000,0000,,{Mari}        Loud and clear!
+Dialogue: 0,00:30:58.50,00:31:00.50,Default,,0000,0000,0000,,{Mari}        ? When you take aim ?
+Dialogue: 0,00:31:00.50,00:31:05.50,Default,,0000,0000,0000,,{Mari}        ? Be careful not to miss your mark ?
+Dialogue: 0,00:31:05.50,00:31:12.50,Default,,0000,0000,0000,,{Mari}        Hey, come on!
+Dialogue: 0,00:31:12.50,00:31:19.50,Default,,0000,0000,0000,,{Mari}        Got ya!
+Dialogue: 0,00:31:19.50,00:31:27.50,Default,,0000,0000,0000,,{Mari}        I knew it! An Adams' vessel?
+Dialogue: 0,00:31:27.50,00:31:32.50,Default,,0000,0000,0000,,{Mari}        At least say "hi" or something!
+Dialogue: 0,00:31:32.50,00:31:35.50,Default,,0000,0000,0000,,{Ritsuko}     The fact he was taken in priority over Eva-01
+Dialogue: 0,00:31:35.50,00:31:37.50,Default,,0000,0000,0000,,{Ritsuko}     means he still has potential as a trigger!
+Dialogue: 0,00:31:37.50,00:31:54.50,Default,,0000,0000,0000,,{Ritsuko}     Misato! Use the DSS Choker!
+Dialogue: 0,00:31:54.50,00:31:56.50,Default,,0000,0000,0000,,{Ritsuko}     Mission directive from Executive Officer.
+Dialogue: 0,00:31:56.50,00:31:57.50,Default,,0000,0000,0000,,{Ritsuko}     Pursuit unnecessary.
+Dialogue: 0,00:31:57.50,00:32:01.50,Default,,0000,0000,0000,,{Ritsuko}     All personnel, resume emergency damage control and camouflage operations.
+Dialogue: 0,00:32:01.50,00:32:02.50,Default,,0000,0000,0000,,{Man}         Roger.
+Dialogue: 0,00:32:02.50,00:32:03.50,Default,,0000,0000,0000,,{Man}         Pursuit unnecessary.
+Dialogue: 0,00:32:03.50,00:32:04.50,Default,,0000,0000,0000,,{Asuka}       Hmph.
+Dialogue: 0,00:32:04.50,00:32:05.50,Default,,0000,0000,0000,,{Man}         All personnel, resume emergency damage control and camouflage operations.
+Dialogue: 0,00:32:05.50,00:32:06.50,Default,,0000,0000,0000,,{Asuka}       What do you know.
+Dialogue: 0,00:32:06.50,00:32:08.50,Default,,0000,0000,0000,,{Asuka}       He's not an idiot, just a brat!
+Dialogue: 0,00:32:08.50,00:32:26.50,Default,,0000,0000,0000,,{Title}       Evangelion New Theatrical Edition: Q
+Dialogue: 0,00:32:26.50,00:32:28.50,Default,,0000,0000,0000,,{Shinji}      I did save her after all.
+Dialogue: 0,00:32:28.50,00:32:31.50,Default,,0000,0000,0000,,{Shinji}      Misato-san lied to me.
+Dialogue: 0,00:32:31.50,00:32:41.50,Default,,0000,0000,0000,,{Rei}         This way.
+Dialogue: 0,00:32:41.50,00:32:58.50,Default,,0000,0000,0000,,{Shinji}      Um...
+Dialogue: 0,00:32:58.50,00:33:10.50,Default,,0000,0000,0000,,{Shinji}      Even though this is the Geofront, you can see the sky.
+Dialogue: 0,00:33:10.50,00:33:14.50,Default,,0000,0000,0000,,{Shinji}      Is that... Nerv Headquarters?
+Dialogue: 0,00:33:14.50,00:33:46.50,Default,,0000,0000,0000,,{Shinji}      What happened?
+Dialogue: 0,00:33:46.50,00:34:25.50,Default,,0000,0000,0000,,{Shinji}      It really has been fourteen years.
+Dialogue: 0,00:34:25.50,00:34:29.50,Default,,0000,0000,0000,,{Rei}         Here.
+Dialogue: 0,00:34:29.50,00:34:32.50,Default,,0000,0000,0000,,{Shinji}      What's this?
+Dialogue: 0,00:34:32.50,00:34:33.50,Default,,0000,0000,0000,,{Shinji}      An Eva...?
+Dialogue: 0,00:34:33.50,00:34:38.50,Default,,0000,0000,0000,,{Gendo}       That's right.
+Dialogue: 0,00:34:38.50,00:34:40.50,Default,,0000,0000,0000,,{Shinji}      Father...
+Dialogue: 0,00:34:40.50,00:34:42.50,Default,,0000,0000,0000,,{Gendo}       Evangelion 13.
+Dialogue: 0,00:34:42.50,00:34:47.50,Default,,0000,0000,0000,,{Gendo}       A unit for you and that pilot.
+Dialogue: 0,00:34:47.50,00:34:50.50,Default,,0000,0000,0000,,{Shinji}      The one on the piano earlier...
+Dialogue: 0,00:34:50.50,00:34:55.50,Default,,0000,0000,0000,,{Gendo}       When the time comes, pilot this Eva along with the boy.
+Dialogue: 0,00:34:55.50,00:34:58.50,Default,,0000,0000,0000,,{Gendo}       We are done talking.
+Dialogue: 0,00:34:58.50,00:34:59.50,Default,,0000,0000,0000,,{Shinji}      Wait a second, Father!
+Dialogue: 0,00:34:59.50,00:35:03.50,Default,,0000,0000,0000,,{Shinji}      I still have a lot of questions, a lot I want to talk about!
+Dialogue: 0,00:35:03.50,00:35:14.50,Default,,0000,0000,0000,,{Shinji}      Father!
+Dialogue: 0,00:35:14.50,00:35:16.50,Default,,0000,0000,0000,,{Shinji}      There's no dial tone,
+Dialogue: 0,00:35:16.50,00:35:39.50,Default,,0000,0000,0000,,{Shinji}      so I can't reach anyone from here.
+Dialogue: 0,00:35:39.50,00:35:52.50,Default,,0000,0000,0000,,{Shinji}      After all, I must thank her.
+Dialogue: 0,00:35:52.50,00:35:56.50,Default,,0000,0000,0000,,{Shinji}      Ayanami!
+Dialogue: 0,00:35:56.50,00:36:00.50,Default,,0000,0000,0000,,{Shinji}      Ayanami, where are you?
+Dialogue: 0,00:36:00.50,00:36:36.50,Default,,0000,0000,0000,,{Shinji}      Ayanami!
+Dialogue: 0,00:36:36.50,00:36:40.50,Default,,0000,0000,0000,,{Shinji}      What is this place?
+Dialogue: 0,00:36:40.50,00:36:41.50,Default,,0000,0000,0000,,{Shinji}      Ayanami?!
+Dialogue: 0,00:36:41.50,00:36:45.50,Default,,0000,0000,0000,,{Shinji}      There you are!
+Dialogue: 0,00:36:45.50,00:36:46.50,Default,,0000,0000,0000,,{Shinji}      Ayanami!
+Dialogue: 0,00:36:46.50,00:36:47.50,Default,,0000,0000,0000,,{Shinji}      I've been looking for you!
+Dialogue: 0,00:36:47.50,00:36:50.50,Default,,0000,0000,0000,,{Shinji}      Um. Ah, wait!
+Dialogue: 0,00:36:50.50,00:36:54.50,Default,,0000,0000,0000,,{Shinji}      Clothes! Put some clothes on!
+Dialogue: 0,00:36:54.50,00:36:58.50,Default,,0000,0000,0000,,{Rei}         If that is an order, I will do it.
+Dialogue: 0,00:36:58.50,00:37:03.50,Default,,0000,0000,0000,,{Shinji}      I'm coming in...
+Dialogue: 0,00:37:03.50,00:57:09.50,Default,,0000,0000,0000,,{Shinji}      Um, Ayanami, thank you for this.
+Dialogue: 0,00:57:09.50,00:37:19.50,Default,,0000,0000,0000,,{Shinji}      I've been wanting to thank you for a while.
+Dialogue: 0,00:37:19.50,00:37:22.50,Default,,0000,0000,0000,,{Shinji}      You got a new plugsuit.
+Dialogue: 0,00:37:22.50,00:37:31.50,Default,,0000,0000,0000,,{Shinji}      It suits you. Though black is a little...
+Dialogue: 0,00:37:31.50,00:37:38.50,Default,,0000,0000,0000,,{Shinji}      Nerv HQ has really changed a lot, hasn't it?
+Dialogue: 0,00:37:38.50,00:37:43.50,Default,,0000,0000,0000,,{Shinji}      Why is Misato-san fighting against Nerv and not the Angels?
+Dialogue: 0,00:37:43.50,00:37:46.50,Default,,0000,0000,0000,,{Shinji}      What does Father intend to do here?
+Dialogue: 0,00:37:46.50,00:37:48.50,Default,,0000,0000,0000,,{Shinji}      What's happened to everyone?
+Dialogue: 0,00:37:48.50,00:37:52.50,Default,,0000,0000,0000,,{Shinji}      Hey, Ayanami, do you know anything?
+Dialogue: 0,00:37:52.50,00:37:53.50,Default,,0000,0000,0000,,{Rei}         I do not.
+Dialogue: 0,00:37:53.50,00:37:56.50,Default,,0000,0000,0000,,{Shinji}      I see...
+Dialogue: 0,00:37:56.50,00:37:59.50,Default,,0000,0000,0000,,{Shinji}      /Yeah, you may be right. {?????????}
+Dialogue: 0,00:37:59.50,00:38:09.50,Default,,0000,0000,0000,,{Shinji}      Say, when did you return from Eva-01?
+Dialogue: 0,00:38:09.50,00:38:13.50,Default,,0000,0000,0000,,{Shinji}      This place isn't much of a room.
+Dialogue: 0,00:38:13.50,00:38:16.50,Default,,0000,0000,0000,,{Shinji}      You could say it's just your style,
+Dialogue: 0,00:38:16.50,00:38:20.50,Default,,0000,0000,0000,,{Shinji}      but it doesn't seem like there is school, so what do you do all the time?
+Dialogue: 0,00:38:20.50,00:38:25.50,Default,,0000,0000,0000,,{Rei}         Wait. For orders.
+Dialogue: 0,00:38:25.50,00:38:27.50,Default,,0000,0000,0000,,{Shinji}      There are no books here.
+Dialogue: 0,00:38:27.50,00:38:29.50,Default,,0000,0000,0000,,{Shinji}      You're not reading any books?
+Dialogue: 0,00:38:29.50,00:38:31.50,Default,,0000,0000,0000,,{Rei}         Books?
+Dialogue: 0,00:38:31.50,00:38:34.50,Default,,0000,0000,0000,,{Rei}         If I were Ayanami Rei, would I read books?
+Dialogue: 0,00:38:34.50,00:38:37.50,Default,,0000,0000,0000,,{Shinji}      Yeah. You read a lot, didn't you?
+Dialogue: 0,00:38:37.50,00:38:39.50,Default,,0000,0000,0000,,{Shinji}      There were books in your room, too.
+Dialogue: 0,00:38:39.50,00:38:40.50,Default,,0000,0000,0000,,{Rei}         I see...
+Dialogue: 0,00:38:40.50,00:38:41.50,Default,,0000,0000,0000,,{Shinji}      I got it!
+Dialogue: 0,00:38:41.50,00:38:44.50,Default,,0000,0000,0000,,{Shinji}      I'll go look in the library here and bring you some.
+Dialogue: 0,00:38:44.50,00:38:47.50,Default,,0000,0000,0000,,{Shinji}      Um, English books are good, right?
+Dialogue: 0,00:38:47.50,00:38:50.50,Default,,0000,0000,0000,,{Shinji}      You always had one on you, so I guess you liked them.
+Dialogue: 0,00:38:50.50,00:38:51.50,Default,,0000,0000,0000,,{Rei}         "Liked"...?
+Dialogue: 0,00:38:51.50,00:38:54.50,Default,,0000,0000,0000,,{Shinji}      Yeah... At least, I think so.
+Dialogue: 0,00:38:54.50,00:39:06.50,Default,,0000,0000,0000,,{Rei}         What is "liked"?
+Dialogue: 0,00:39:06.50,00:39:10.50,Default,,0000,0000,0000,,{Fuyutsuki}   So Seele are still maintaining their silence?
+Dialogue: 0,00:39:10.50,00:39:15.50,Default,,0000,0000,0000,,{Gendo}       The Human Instrumentality Project will be carried out according to the Dead Sea Scrolls.
+Dialogue: 0,00:39:15.50,00:39:19.50,Default,,0000,0000,0000,,{Gendo}       We no longer need to weave the story.
+Dialogue: 0,00:39:19.50,00:39:25.50,Default,,0000,0000,0000,,{Fuyutsuki}   Ikari, you intend to use Eva-13 this time?
+Dialogue: 0,00:39:25.50,00:39:31.50,Default,,0000,0000,0000,,{Fuyutsuki}   No matter. I will go along with your plan.
+Dialogue: 0,00:39:31.50,00:39:35.50,Default,,0000,0000,0000,,{Fuyutsuki}   For Yui-kun's sake.
+Dialogue: 0,00:39:35.50,00:39:45.50,Default,,0000,0000,0000,,{Shinji}      It's no use. It doesn't work.
+Dialogue: 0,00:39:45.50,00:39:46.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:39:46.50,00:39:48.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:39:48.50,00:39:50.50,Default,,0000,0000,0000,,{Sakura}      Please, just don't pilot an Eva!
+Dialogue: 0,00:39:50.50,00:39:51.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:39:51.50,00:40:47.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:40:47.50,00:40:49.50,Default,,0000,0000,0000,,{Kaworu}      Come down here, Ikari-kun.
+Dialogue: 0,00:40:49.50,00:40:56.50,Default,,0000,0000,0000,,{Kaworu}      Let's talk!
+Dialogue: 0,00:40:56.50,00:40:59.50,Default,,0000,0000,0000,,{Shinji}      Uh, aren't we going to talk?
+Dialogue: 0,00:40:59.50,00:41:02.50,Default,,0000,0000,0000,,{Kaworu}      A piano duet is a dialogue of sounds, you could say.
+Dialogue: 0,00:41:02.50,00:41:06.50,Default,,0000,0000,0000,,{Kaworu}      Why don't we try it?
+Dialogue: 0,00:41:06.50,00:41:08.50,Default,,0000,0000,0000,,{Shinji}      No, that's alright. I can't play.
+Dialogue: 0,00:41:08.50,00:41:18.50,Default,,0000,0000,0000,,{Kaworu}      If you want to live well, you have to change and try new things.
+Dialogue: 0,00:41:18.50,00:41:19.50,Default,,0000,0000,0000,,{Kaworu}      Look, it's easy.
+Dialogue: 0,00:41:19.50,00:41:37.50,Default,,0000,0000,0000,,{Kaworu}      You just have to hit this key here.
+Dialogue: 0,00:41:37.50,00:42:03.50,Default,,0000,0000,0000,,{Kaworu}      Now, follow along with me.
+Dialogue: 0,00:42:03.50,00:42:05.50,Default,,0000,0000,0000,,{Kaworu}      Very good!
+Dialogue: 0,00:42:05.50,00:42:42.50,Default,,0000,0000,0000,,{Kaworu}      You're playing so well.
+Dialogue: 0,00:42:42.50,00:42:45.50,Default,,0000,0000,0000,,{Kaworu}      Every note is a joy.
+Dialogue: 0,00:42:45.50,00:42:52.50,Default,,0000,0000,0000,,{Kaworu}      We're amazing together, aren't we?
+Dialogue: 0,00:42:52.50,00:43:54.50,Default,,0000,0000,0000,,{Shinji}      Thanks.
+Dialogue: 0,00:43:54.50,00:42:56.50,Default,,0000,0000,0000,,{Shinji}      It's been ages since I've had this much fun.
+Dialogue: 0,00:42:56.50,00:42:58.50,Default,,0000,0000,0000,,{Kaworu}      Same here.
+Dialogue: 0,00:42:58.50,00:42:59.50,Default,,0000,0000,0000,,{Kaworu}      We'll have to do this again.
+Dialogue: 0,00:42:59.50,00:43:02.50,Default,,0000,0000,0000,,{Kaworu}      You can come anytime, Ikari Shinji-kun.
+Dialogue: 0,00:43:02.50,00:43:03.50,Default,,0000,0000,0000,,{Shinji}      Sure.
+Dialogue: 0,00:43:03.50,00:43:05.50,Default,,0000,0000,0000,,{Shinji}      Oh, you are...?
+Dialogue: 0,00:43:05.50,00:43:09.50,Default,,0000,0000,0000,,{Kaworu}      I'm Kaworu, Nagisa Kaworu.
+Dialogue: 0,00:43:09.50,00:43:18.50,Default,,0000,0000,0000,,{Kaworu}      I'm a child chosen by fate, the same as you.
+Dialogue: 0,00:43:18.50,00:43:21.50,Default,,0000,0000,0000,,{Shinji}      She's not here this time, either.
+Dialogue: 0,00:43:21.50,00:43:39.50,Default,,0000,0000,0000,,{Shinji}      The books haven't been touched, either.
+Dialogue: 0,00:43:39.50,00:43:43.50,Default,,0000,0000,0000,,{Kaworu}      Good morning, Ikari Shinji-kun.
+Dialogue: 0,00:43:43.50,00:43:45.50,Default,,0000,0000,0000,,{Kaworu}      You're here early today.
+Dialogue: 0,00:43:45.50,00:44:17.50,Default,,0000,0000,0000,,{Shinji}      I don't really have anything else to do.
+Dialogue: 0,00:44:17.50,00:44:20.50,Default,,0000,0000,0000,,{Shinji}      I wonder how I could play better...
+Dialogue: 0,00:44:20.50,00:44:23.50,Default,,0000,0000,0000,,{Kaworu}      You don't need to be good at playing it.
+Dialogue: 0,00:44:23.50,00:44:27.50,Default,,0000,0000,0000,,{Kaworu}      Just producing a pleasing sound will suffice.
+Dialogue: 0,00:44:27.50,00:44:31.50,Default,,0000,0000,0000,,{Shinji}      So if I want to improve the sound I'm making, what should I do?
+Dialogue: 0,00:44:31.50,00:44:33.50,Default,,0000,0000,0000,,{Kaworu}      It takes repeated practice.
+Dialogue: 0,00:44:33.50,00:44:40.50,Default,,0000,0000,0000,,{Kaworu}      Doing it over and over, until it feels good enough to you.
+Dialogue: 0,00:44:40.50,00:45:12.50,Default,,0000,0000,0000,,{Kaworu}      That's the only way.
+Dialogue: 0,00:45:12.50,00:45:13.50,Default,,0000,0000,0000,,{Kaworu}      It's okay, leave it to me.
+Dialogue: 0,00:45:13.50,00:45:15.50,Default,,0000,0000,0000,,{Kaworu}      You just need it to work, right?
+Dialogue: 0,00:45:15.50,00:45:17.50,Default,,0000,0000,0000,,{Shinji}      Yeah. Thank you.
+Dialogue: 0,00:45:17.50,00:45:20.50,Default,,0000,0000,0000,,{Shinji}      I feel bad for making you do so much for me.
+Dialogue: 0,00:45:20.50,00:45:22.50,Default,,0000,0000,0000,,{Kaworu}      You don't need to worry about that.
+Dialogue: 0,00:45:22.50,00:45:28.50,Default,,0000,0000,0000,,{Kaworu}      We're friends, after all.
+Dialogue: 0,00:45:28.50,00:45:30.50,Default,,0000,0000,0000,,{Kaworu}      It's gotten quite dark, hasn't it?
+Dialogue: 0,00:45:30.50,00:45:33.50,Default,,0000,0000,0000,,{Kaworu}      Why don't we head back for today?
+Dialogue: 0,00:45:33.50,00:44:36.50,Default,,0000,0000,0000,,{Shinji}      Hey, why don't we stay here for a little longer?
+Dialogue: 0,00:44:36.50,00:45:38.50,Default,,0000,0000,0000,,{Shinji}      We could watch the stars from here.
+Dialogue: 0,00:45:38.50,00:45:41.50,Default,,0000,0000,0000,,{Kaworu}      The stars?
+Dialogue: 0,00:45:41.50,00:45:44.50,Default,,0000,0000,0000,,{Kaworu}      Do you like the stars?
+Dialogue: 0,00:45:44.50,00:45:46.50,Default,,0000,0000,0000,,{Shinji}      Yeah.
+Dialogue: 0,00:45:46.50,00:45:49.50,Default,,0000,0000,0000,,{Shinji}      It's always struck me how large the universe is.
+Dialogue: 0,00:45:49.50,00:45:54.50,Default,,0000,0000,0000,,{Shinji}      There's something about it that's put my mind completely at ease, ever since I was little.
+Dialogue: 0,00:45:54.50,00:45:59.50,Default,,0000,0000,0000,,{Shinji}      I guess I'm glad that it hasn't changed at all these past fourteen years.
+Dialogue: 0,00:45:59.50,00:46:05.50,Default,,0000,0000,0000,,{Shinji}      Or maybe it makes me feel marginalized, but in a good way, if that makes sense.
+Dialogue: 0,00:46:05.50,00:46:08.50,Default,,0000,0000,0000,,{Shinji}      Uh, it's hard to put into words.
+Dialogue: 0,00:46:08.50,00:46:11.50,Default,,0000,0000,0000,,{Kaworu}      Your feelings came through.
+Dialogue: 0,00:46:11.50,00:46:16.50,Default,,0000,0000,0000,,{Kaworu}      Instead of seeking change, you prefer a world of nothingness and brutal abyss.
+Dialogue: 0,00:46:16.50,00:46:19.50,Default,,0000,0000,0000,,{Kaworu}      It's like you.
+Dialogue: 0,00:46:19.50,00:46:22.50,Default,,0000,0000,0000,,{Kaworu}      Lying here together is nice.
+Dialogue: 0,00:46:22.50,00:46:25.50,Default,,0000,0000,0000,,{Kaworu}      I didn't know it could be so pleasant.
+Dialogue: 0,00:46:25.50,00:46:28.50,Default,,0000,0000,0000,,{Kaworu}      Thanks for inviting me.
+Dialogue: 0,00:46:28.50,00:46:30.50,Default,,0000,0000,0000,,{Shinji}      No, you don't need to.
+Dialogue: 0,00:46:30.50,00:46:37.50,Default,,0000,0000,0000,,{Shinji}      I just thought that it'd be fun, if you wanted to try it, and...
+Dialogue: 0,00:46:37.50,00:46:40.50,Default,,0000,0000,0000,,{Kaworu}      It is fun.
+Dialogue: 0,00:46:40.50,00:46:54.50,Default,,0000,0000,0000,,{Kaworu}      I really was born to meet you.
+Dialogue: 0,00:46:54.50,00:47:00.50,Default,,0000,0000,0000,,{Shinji}      Hm?
+Dialogue: 0,00:47:00.50,00:47:03.50,Default,,0000,0000,0000,,{Shinji}      Seems a little big this time.
+Dialogue: 0,00:47:03.50,00:47:05.50,Default,,0000,0000,0000,,{Shinji}      Huh?
+Dialogue: 0,00:47:05.50,00:47:10.50,Default,,0000,0000,0000,,{Tag}         Suzuhara Toji
+Dialogue: 0,00:47:10.50,00:47:13.50,Default,,0000,0000,0000,,{Kaworu}      Here, it should work now.
+Dialogue: 0,00:47:13.50,00:47:14.50,Default,,0000,0000,0000,,{Shinji}      Thanks.
+Dialogue: 0,00:47:14.50,00:47:16.50,Default,,0000,0000,0000,,{Shinji}      You're amazing, Nagisa-kun.
+Dialogue: 0,00:47:16.50,00:47:18.50,Default,,0000,0000,0000,,{Shinji}      You can do everything.
+Dialogue: 0,00:47:18.50,00:47:20.50,Default,,0000,0000,0000,,{Kaworu}      This is just knowledge.
+Dialogue: 0,00:47:20.50,00:47:24.50,Default,,0000,0000,0000,,{Kaworu}      It's because I've stayed in this world for a little longer than you.
+Dialogue: 0,00:47:24.50,00:47:28.50,Default,,0000,0000,0000,,{Shinji}      Still... you're incredible.
+Dialogue: 0,00:47:28.50,00:47:30.50,Default,,0000,0000,0000,,{Kaworu}      You don't look too well.
+Dialogue: 0,00:47:30.50,00:47:35.50,Default,,0000,0000,0000,,{Kaworu}      What's wrong?
+Dialogue: 0,00:47:35.50,00:47:39.50,Default,,0000,0000,0000,,{Shinji}      I'm worried about my friends.
+Dialogue: 0,00:47:39.50,00:47:40.50,Default,,0000,0000,0000,,{Kaworu}      Friends?
+Dialogue: 0,00:47:40.50,00:47:42.50,Default,,0000,0000,0000,,{Shinji}      Yeah.
+Dialogue: 0,00:47:42.50,00:47:45.50,Default,,0000,0000,0000,,{Shinji}      There was a city above Nerv HQ.
+Dialogue: 0,00:47:45.50,00:47:47.50,Default,,0000,0000,0000,,{Shinji}      That's where everyone lived.
+Dialogue: 0,00:47:47.50,00:47:48.50,Default,,0000,0000,0000,,{Shinji}      Toji, Kensuke,
+Dialogue: 0,00:47:48.50,00:47:51.50,Default,,0000,0000,0000,,{Shinji}      Prez, the rest of the class...
+Dialogue: 0,00:47:51.50,00:47:55.50,Default,,0000,0000,0000,,{Shinji}      Apparently I'd been sleeping in Eva-01 for fourteen years.
+Dialogue: 0,00:47:55.50,00:48:00.50,Default,,0000,0000,0000,,{Shinji}      I don't know what's changed in that time.
+Dialogue: 0,00:48:00.50,00:48:04.50,Default,,0000,0000,0000,,{Kaworu}      Not knowing the answer to that must be painful.
+Dialogue: 0,00:48:04.50,00:48:07.50,Default,,0000,0000,0000,,{Shinji}      Somehow, I'm scared.
+Dialogue: 0,00:48:07.50,00:48:12.50,Default,,0000,0000,0000,,{Shinji}      Of what's happened to the city and everybody...
+Dialogue: 0,00:48:12.50,00:48:14.50,Default,,0000,0000,0000,,{Shinji}      I'm scared of it for some reason.
+Dialogue: 0,00:48:14.50,00:48:25.50,Default,,0000,0000,0000,,{Shinji}      That's right, I'm scared!
+Dialogue: 0,00:48:25.50,00:48:54.50,Default,,0000,0000,0000,,{Kaworu}      Do you want to know?
+Dialogue: 0,00:48:54.50,00:48:56.50,Default,,0000,0000,0000,,{Shinji}      Nagisa-kun?
+Dialogue: 0,00:48:56.50,00:49:13.50,Default,,0000,0000,0000,,{Shinji}      Nagisa-kun!
+Dialogue: 0,00:49:13.50,00:49:32.50,Default,,0000,0000,0000,,{Kaworu}      Just a little longer now.
+Dialogue: 0,00:49:32.50,00:49:34.50,Default,,0000,0000,0000,,{Kaworu}      The clouds will disperse soon,
+Dialogue: 0,00:49:34.50,00:49:46.50,Default,,0000,0000,0000,,{Kaworu}      and you will see the truth you desire.
+Dialogue: 0,00:49:46.50,00:49:52.50,Default,,0000,0000,0000,,{Shinji}      What is this...?
+Dialogue: 0,00:49:52.50,00:50:01.50,Default,,0000,0000,0000,,{Kaworu}      The outcome of Third Impact, which came to pass while you were merged with Eva-01.
+Dialogue: 0,00:50:01.50,00:50:03.50,Default,,0000,0000,0000,,{Shinji}      But this is...
+Dialogue: 0,00:50:03.50,00:50:05.50,Default,,0000,0000,0000,,{Shinji}      What happened to everyone in the city?
+Dialogue: 0,00:50:05.50,00:50:08.50,Default,,0000,0000,0000,,{Kaworu}      Mass extinction is not unusual on this planet.
+Dialogue: 0,00:50:08.50,00:50:12.50,Default,,0000,0000,0000,,{Kaworu}      Rather, it is the aspect that drives evolution.
+Dialogue: 0,00:50:12.50,00:50:18.50,Default,,0000,0000,0000,,{Kaworu}      Because life is fundamentally something that adjusts to the world and changes itself.
+Dialogue: 0,00:50:18.50,00:50:25.50,Default,,0000,0000,0000,,{Kaworu}      However, Lilin do not change themselves, but the world.
+Dialogue: 0,00:50:25.50,00:50:31.50,Default,,0000,0000,0000,,{Kaworu}      So they brought the rite of artificial evolution unto themselves.
+Dialogue: 0,00:50:31.50,00:50:33.50,Default,,0000,0000,0000,,{Kaworu}      Old life is offered in sacrifice,
+Dialogue: 0,00:50:33.50,00:50:39.50,Default,,0000,0000,0000,,{Kaworu}      so that new beings blessed with the Fruit of Life may be created.
+Dialogue: 0,00:50:39.50,00:50:43.50,Default,,0000,0000,0000,,{Kaworu}      All this is due to the death instinct that's been programmed since time immemorial.
+Dialogue: 0,00:50:43.50,00:50:48.50,Default,,0000,0000,0000,,{Kaworu}      Nerv call it the Human Instrumentality Project.
+Dialogue: 0,00:50:48.50,00:50:53.50,Default,,0000,0000,0000,,{Shinji}      This is Nerv's...
+Dialogue: 0,00:50:53.50,00:50:58.50,Default,,0000,0000,0000,,{Shinji}      This is what my father was doing.
+Dialogue: 0,00:50:58.50,00:51:00.50,Default,,0000,0000,0000,,{Kaworu}      Ikari Shinji-kun,
+Dialogue: 0,00:51:00.50,00:51:05.50,Default,,0000,0000,0000,,{Kaworu}      once Awakened, Eva-01 opened the Door of Guf
+Dialogue: 0,00:51:05.50,00:51:08.50,Default,,0000,0000,0000,,{Kaworu}      and became the trigger for Third Impact.
+Dialogue: 0,00:51:08.50,00:51:12.50,Default,,0000,0000,0000,,{Kaworu}      Lilin call it Near Third Impact.
+Dialogue: 0,00:51:12.50,00:51:19.50,Default,,0000,0000,0000,,{Kaworu}      It was all initiated by you.
+Dialogue: 0,00:51:19.50,00:51:20.50,Default,,0000,0000,0000,,{Shinji}      You're wrong!
+Dialogue: 0,00:51:20.50,00:51:26.50,Default,,0000,0000,0000,,{Shinji}      All I did was save Ayanami!
+Dialogue: 0,00:51:26.50,00:51:31.50,Default,,0000,0000,0000,,{Kaworu}      True, but that was the catalyst...
+Dialogue: 0,00:51:31.50,00:51:35.50,Default,,0000,0000,0000,,{Shinji}      All this...
+Dialogue: 0,00:51:35.50,00:51:37.50,Default,,0000,0000,0000,,{Shinji}      I didn't know!
+Dialogue: 0,00:51:37.50,00:51:39.50,Default,,0000,0000,0000,,{Shinji}      You're telling me all of this so fast,
+Dialogue: 0,00:51:39.50,00:51:40.50,Default,,0000,0000,0000,,{Shinji}      and there's nothing I can do about it!
+Dialogue: 0,00:51:40.50,00:51:41.50,Default,,0000,0000,0000,,{Kaworu}      Indeed.
+Dialogue: 0,00:51:41.50,00:51:45.50,Default,,0000,0000,0000,,{Kaworu}      There's nothing you can do about your past.
+Dialogue: 0,00:51:45.50,00:51:48.50,Default,,0000,0000,0000,,{Kaworu}      The truth you desired to know.
+Dialogue: 0,00:51:48.50,00:51:53.50,Default,,0000,0000,0000,,{Kaworu}      The Lilin are providing you reparation for your sin as a result.
+Dialogue: 0,00:51:53.50,00:51:58.50,Default,,0000,0000,0000,,{Kaworu}      That's what your neck device is, no?
+Dialogue: 0,00:51:58.50,00:52:00.50,Default,,0000,0000,0000,,{Shinji}      What sin?
+Dialogue: 0,00:52:00.50,00:52:02.50,Default,,0000,0000,0000,,{Shinji}      I didn't do anything!
+Dialogue: 0,00:52:02.50,00:52:04.50,Default,,0000,0000,0000,,{Shinji}      I had nothing to do with it!
+Dialogue: 0,00:52:04.50,00:52:08.50,Default,,0000,0000,0000,,{Kaworu}      If it wasn't you, then who was it?
+Dialogue: 0,00:52:08.50,00:52:12.50,Default,,0000,0000,0000,,{Kaworu}      However, no sin is beyond redemption.
+Dialogue: 0,00:52:12.50,00:52:14.50,Default,,0000,0000,0000,,{Kaworu}      There is always hope.
+Dialogue: 0,00:52:14.50,00:52:33.50,Default,,0000,0000,0000,,{Kaworu}      Always.
+Dialogue: 0,00:52:33.50,00:52:37.50,Default,,0000,0000,0000,,{Fuyutsuki}   Seele's boy has contacted the Third Boy.
+Dialogue: 0,00:52:37.50,00:52:40.50,Default,,0000,0000,0000,,{Fuyutsuki}   He showed him the conditions outside, it seems.
+Dialogue: 0,00:52:40.50,00:52:43.50,Default,,0000,0000,0000,,{Fuyutsuki}   Was his reaction as you anticipated?
+Dialogue: 0,00:52:43.50,00:52:45.50,Default,,0000,0000,0000,,{Fuyutsuki}   Are you okay with all of this, Ikari?
+Dialogue: 0,00:52:45.50,00:52:49.50,Default,,0000,0000,0000,,{Gendo}       Seele's scenario is being rewritten by us.
+Dialogue: 0,00:52:49.50,00:52:52.50,Default,,0000,0000,0000,,{Gendo}       All existence is nothing more than a tool to that end.
+Dialogue: 0,00:52:52.50,00:52:58.50,Default,,0000,0000,0000,,{Fuyutsuki}   You assume that your son wouldn't benefit even from seeing how you live?
+Dialogue: 0,00:52:58.50,00:53:03.50,Default,,0000,0000,0000,,{Fuyutsuki}   I don't agree with that.
+Dialogue: 0,00:53:03.50,00:53:06.50,Default,,0000,0000,0000,,{Shinji}      What is...
+Dialogue: 0,00:53:06.50,00:53:13.50,Default,,0000,0000,0000,,{Shinji}      What am I supposed--
+Dialogue: 0,00:53:13.50,00:53:16.50,Default,,0000,0000,0000,,{Shinji}      Right... I saved Ayanami.
+Dialogue: 0,00:53:16.50,00:53:42.50,Default,,0000,0000,0000,,{Shinji}      Wasn't that the right thing?
+Dialogue: 0,00:53:42.50,00:53:44.50,Default,,0000,0000,0000,,{Shinji}      She's gone again.
+Dialogue: 0,00:53:44.50,00:53:48.50,Default,,0000,0000,0000,,{Shinji}      She still hasn't touched the books.
+Dialogue: 0,00:53:48.50,00:53:50.50,Default,,0000,0000,0000,,{Shinji}      What's going on...?
+Dialogue: 0,00:53:50.50,00:54:03.50,Default,,0000,0000,0000,,{Shinji}      What's wrong with Ayanami?!
+Dialogue: 0,00:54:03.50,00:54:07.50,Default,,0000,0000,0000,,{Fuyutsuki}   Third Boy, do you play shogi?
+Dialogue: 0,00:54:07.50,00:54:10.50,Default,,0000,0000,0000,,{Shinji}      Eh... I only sort of know the rules.
+Dialogue: 0,00:54:10.50,00:54:13.50,Default,,0000,0000,0000,,{Fuyutsuki}   That's fine. Choose a side.
+Dialogue: 0,00:54:13.50,00:54:22.50,Default,,0000,0000,0000,,{Fuyutsuki}   I'll start without a castle, bishop, and golden general.
+Dialogue: 0,00:54:22.50,00:54:26.50,Default,,0000,0000,0000,,{Fuyutsuki}   Let your mind be still.
+Dialogue: 0,00:54:26.50,00:54:29.50,Default,,0000,0000,0000,,{Fuyutsuki}   It's the only way to achieve victory.
+Dialogue: 0,00:54:29.50,00:54:34.50,Default,,0000,0000,0000,,{Fuyutsuki}   You'll lose in another thirty-one turns.
+Dialogue: 0,00:54:34.50,00:54:41.50,Default,,0000,0000,0000,,{Fuyutsuki}   Hmm...
+Dialogue: 0,00:54:41.50,00:54:45.50,Default,,0000,0000,0000,,{Fuyutsuki}   Is it more fun for you this way?
+Dialogue: 0,00:54:45.50,00:54:53.50,Default,,0000,0000,0000,,{Fuyutsuki}   Thank you for indulging an old man his hobby.
+Dialogue: 0,00:54:53.50,00:54:55.50,Default,,0000,0000,0000,,{Fuyutsuki}   I'm a coward too, you know.
+Dialogue: 0,00:54:55.50,00:55:00.50,Default,,0000,0000,0000,,{Fuyutsuki}   I used this game as a pretext to talk to you.
+Dialogue: 0,00:55:00.50,00:55:04.50,Default,,0000,0000,0000,,{Fuyutsuki}   Do you remember your mother?
+Dialogue: 0,00:55:04.50,00:55:08.50,Default,,0000,0000,0000,,{Shinji}      No. I was too small.
+Dialogue: 0,00:55:08.50,00:55:17.50,Default,,0000,0000,0000,,{Shinji}      Father got rid of everything that was hers.
+Dialogue: 0,00:55:17.50,00:55:20.50,Default,,0000,0000,0000,,{Shinji}      Is this...
+Dialogue: 0,00:55:20.50,00:55:23.50,Default,,0000,0000,0000,,{Shinji}      Ayanami?
+Dialogue: 0,00:55:23.50,00:55:24.50,Default,,0000,0000,0000,,{Fuyutsuki}   Your mother.
+Dialogue: 0,00:55:24.50,00:55:26.50,Default,,0000,0000,0000,,{Fuyutsuki}   Maiden name, Ayanami Yui.
+Dialogue: 0,00:55:26.50,00:55:30.50,Default,,0000,0000,0000,,{Fuyutsuki}   She was my student at the university.
+Dialogue: 0,00:55:30.50,00:55:37.50,Default,,0000,0000,0000,,{Fuyutsuki}   Now, she is the control system of Eva Unit 01.
+Dialogue: 0,00:55:37.50,00:55:43.50,Default,,0000,0000,0000,,{Fuyutsuki}   Hm. The power was finally restored.
+Dialogue: 0,00:55:43.50,00:55:47.50,Default,,0000,0000,0000,,{Fuyutsuki}   The control system from very early in the Evas' development.
+Dialogue: 0,00:55:47.50,00:55:51.50,Default,,0000,0000,0000,,{Fuyutsuki}   Here, Yui-kun proposed direct entry into cores,
+Dialogue: 0,00:55:51.50,00:55:55.50,Default,,0000,0000,0000,,{Fuyutsuki}   and tested it with herself as the experimentee.
+Dialogue: 0,00:55:55.50,00:56:05.50,Default,,0000,0000,0000,,{Fuyutsuki}   You were watching, too. Your memory must have been erased.
+Dialogue: 0,00:56:05.50,00:56:09.50,Default,,0000,0000,0000,,{Fuyutsuki}   The result was that Yui-kun vanished here,
+Dialogue: 0,00:56:09.50,00:56:13.50,Default,,0000,0000,0000,,{Fuyutsuki}   and only her data was recovered, in the Ayanami Series.
+Dialogue: 0,00:56:13.50,00:56:18.50,Default,,0000,0000,0000,,{Fuyutsuki}   The Rei you know is one of Yui-kun's clones.
+Dialogue: 0,00:56:18.50,00:56:23.50,Default,,0000,0000,0000,,{Fuyutsuki}   She is preserved within Eva-01, the same as your mother.
+Dialogue: 0,00:56:23.50,00:56:27.50,Default,,0000,0000,0000,,{Fuyutsuki}   All of it is Ikari's plan.
+Dialogue: 0,00:56:27.50,00:56:30.50,Default,,0000,0000,0000,,{Shinji}      No way...
+Dialogue: 0,00:56:30.50,00:56:34.50,Default,,0000,0000,0000,,{Fuyutsuki}   Breaking the world is not difficult.
+Dialogue: 0,00:56:34.50,00:56:38.50,Default,,0000,0000,0000,,{Fuyutsuki}   But rebuilding it, that isn't so easy.
+Dialogue: 0,00:56:38.50,00:56:42.50,Default,,0000,0000,0000,,{Fuyutsuki}   The world can be reversed no more than time.
+Dialogue: 0,00:56:42.50,00:56:45.50,Default,,0000,0000,0000,,{Fuyutsuki}   Nor even the human heart...
+Dialogue: 0,00:56:45.50,00:56:48.50,Default,,0000,0000,0000,,{Fuyutsuki}   And thus, so that his wish might be granted,
+Dialogue: 0,00:56:48.50,00:56:51.50,Default,,0000,0000,0000,,{Fuyutsuki}   Ikari is paying every price there is.
+Dialogue: 0,00:56:51.50,00:56:54.50,Default,,0000,0000,0000,,{Fuyutsuki}   Even his very soul.
+Dialogue: 0,00:56:54.50,00:56:57.50,Default,,0000,0000,0000,,{Fuyutsuki}   I've imparted to you a little of the truth.
+Dialogue: 0,00:56:57.50,00:57:11.50,Default,,0000,0000,0000,,{Fuyutsuki}   About your father, as well...
+Dialogue: 0,00:57:11.50,00:57:14.50,Default,,0000,0000,0000,,{Fuyutsuki}   I could have been given a more pleasant part to play.
+Dialogue: 0,00:57:14.50,00:57:25.50,Default,,0000,0000,0000,,{Fuyutsuki}   Yui-kun, this should do.
+Dialogue: 0,00:57:25.50,00:57:30.50,Default,,0000,0000,0000,,{Gendo}       The time of the final contract is upon us.
+Dialogue: 0,00:57:30.50,00:57:41.50,Default,,0000,0000,0000,,{Gendo}       We shall meet soon, Yui.
+Dialogue: 0,00:57:41.50,00:57:46.50,Default,,0000,0000,0000,,{Shinji}      Why aren't you reading the books?
+Dialogue: 0,00:57:46.50,00:57:48.50,Default,,0000,0000,0000,,{Rei}         That wasn't your order.
+Dialogue: 0,00:57:48.50,00:57:50.50,Default,,0000,0000,0000,,{Shinji}      "Order"...?
+Dialogue: 0,00:57:50.50,00:57:55.50,Default,,0000,0000,0000,,{Shinji}      Alright, that's enough!
+Dialogue: 0,00:57:55.50,00:57:58.50,Default,,0000,0000,0000,,{Shinji}      Are you still Ayanami...?
+Dialogue: 0,00:57:58.50,00:58:01.50,Default,,0000,0000,0000,,{Rei}         Yes, Ayanami Rei.
+Dialogue: 0,00:58:01.50,00:58:05.50,Default,,0000,0000,0000,,{Shinji}      Then I did save you, right...?
+Dialogue: 0,00:58:05.50,00:58:14.50,Default,,0000,0000,0000,,{Rei}         ...I don't know.
+Dialogue: 0,00:58:14.50,00:58:21.50,Default,,0000,0000,0000,,{Rei}         Ikari-kun...?
+Dialogue: 0,00:58:21.50,00:58:25.50,Default,,0000,0000,0000,,{Shinji}      So, I didn't actually save her...
+Dialogue: 0,00:58:25.50,00:58:27.50,Default,,0000,0000,0000,,{Shinji}      Ayanami...
+Dialogue: 0,00:58:27.50,00:58:31.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:58:31.50,00:58:31.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:58:31.50,00:58:33.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:58:33.50,00:58:37.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:58:37.50,00:58:39.50,Default,,0000,0000,0000,,{Sakura}      Whatever you do, don't pilot an Eva!
+Dialogue: 0,00:58:39.50,00:58:42.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:58:42.50,00:58:43.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:58:43.50,00:58:44.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:58:44.50,00:58:46.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:58:46.50,00:58:49.50,Default,,0000,0000,0000,,{Sakura}      Whatever you do, don't pilot an Eva!
+Dialogue: 0,00:58:49.50,00:58:50.50,Default,,0000,0000,0000,,{Shinji}      Father...
+Dialogue: 0,00:58:50.50,00:58:51.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:58:51.50,00:58:52.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:58:52.50,00:58:53.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:58:53.50,00:58:54.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:58:54.50,00:58:55.50,Default,,0000,0000,0000,,{Sakura}      Whatever you do, don't pilot an Eva!
+Dialogue: 0,00:58:55.50,00:58:56.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:58:56.50,00:58:56.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:58:56.50,00:58:58.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:58:58.50,00:58:58.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:58:58.50,00:58:59.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:58:59.50,00:59:01.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:59:01.50,00:59:02.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:59:02.50,00:59:03.50,Default,,0000,0000,0000,,{Misato}      Do nothing.
+Dialogue: 0,00:59:03.50,00:59:03.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:59:03.50,00:59:04.50,Default,,0000,0000,0000,,{Asuka}       ...your business.
+Dialogue: 0,00:59:04.50,00:59:05.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:59:05.50,00:59:06.50,Default,,0000,0000,0000,,{Asuka}       None of your business.
+Dialogue: 0,00:59:06.50,00:59:09.50,Default,,0000,0000,0000,,{Sakura}      Whatever you do, don't pilot an Eva!
+Dialogue: 0,00:59:09.50,00:59:10.50,Default,,0000,0000,0000,,{Rei}         I don't know.
+Dialogue: 0,00:59:10.50,00:59:18.50,Default,,0000,0000,0000,,{Gendo}       Pilot the Eva.
+Dialogue: 0,00:59:18.50,00:59:57.50,Default,,0000,0000,0000,,{Shinji}      What did I do?
+Dialogue: 0,00:59:57.50,01:00:00.50,Default,,0000,0000,0000,,{Fuyutsuki}   Has the final executor been completed?
+Dialogue: 0,01:00:00.50,01:00:06.50,Default,,0000,0000,0000,,{Gendo}       Yes, everything we need is right here.
+Dialogue: 0,01:00:06.50,01:00:09.50,Default,,0000,0000,0000,,{Kaworu}      The time has come.
+Dialogue: 0,01:00:09.50,01:00:12.50,Default,,0000,0000,0000,,{Kaworu}      This is it, Ikari Shinji-kun.
+Dialogue: 0,01:00:12.50,01:00:15.50,Default,,0000,0000,0000,,{Shinji}      No!
+Dialogue: 0,01:00:15.50,01:00:17.50,Default,,0000,0000,0000,,{Shinji}      I don't want to pilot an Eva anymore!
+Dialogue: 0,01:00:17.50,01:00:20.50,Default,,0000,0000,0000,,{Shinji}      I didn't save Ayanami after all!
+Dialogue: 0,01:00:20.50,01:00:23.50,Default,,0000,0000,0000,,{Shinji}      Nothing good came out of me piloting the Eva!
+Dialogue: 0,01:00:23.50,01:00:26.50,Default,,0000,0000,0000,,{Shinji}      I've had enough! I don't want to do anything!
+Dialogue: 0,01:00:26.50,01:00:34.50,Default,,0000,0000,0000,,{Kaworu}      And so, the refrain of bitter memories will keep good things from happening.
+Dialogue: 0,01:00:34.50,01:00:36.50,Default,,0000,0000,0000,,{Shinji}      Nothing is ever good!
+Dialogue: 0,01:00:36.50,01:00:39.50,Default,,0000,0000,0000,,{Shinji}      You were the one who showed me that, Kaworu.
+Dialogue: 0,01:00:39.50,01:00:42.50,Default,,0000,0000,0000,,{Shinji}      A world where I can't do anything!
+Dialogue: 0,01:00:42.50,01:00:47.50,Default,,0000,0000,0000,,{Kaworu}      That which was changed by Eva can be changed back by Eva in turn.
+Dialogue: 0,01:00:47.50,01:00:49.50,Default,,0000,0000,0000,,{Shinji}      You say that, but my father, Eva, Misato-san...
+Dialogue: 0,01:00:49.50,01:00:53.50,Default,,0000,0000,0000,,{Shinji}      I can't believe in anyone, or anything!
+Dialogue: 0,01:00:53.50,01:00:56.50,Default,,0000,0000,0000,,{Kaworu}      Still, I want you to believe in me.
+Dialogue: 0,01:00:56.50,01:00:59.50,Default,,0000,0000,0000,,{Shinji}      I can't!
+Dialogue: 0,01:00:59.50,01:01:03.50,Default,,0000,0000,0000,,{Shinji}      Misato-san had this thing put on me!
+Dialogue: 0,01:01:03.50,01:01:05.50,Default,,0000,0000,0000,,{Shinji}      They said to never pilot Eva again.
+Dialogue: 0,01:01:05.50,01:01:09.50,Default,,0000,0000,0000,,{Shinji}      They said if I pilot, I'll die.
+Dialogue: 0,01:01:09.50,01:01:19.50,Default,,0000,0000,0000,,{Shinji}      I don't care about Eva anymore.
+Dialogue: 0,01:01:19.50,01:01:20.50,Default,,0000,0000,0000,,{Kaworu}      I understand.
+Dialogue: 0,01:01:20.50,01:01:31.50,Default,,0000,0000,0000,,{Kaworu}      I will shoulder the burden of the Lilin's curse, and the risk of Eva's Awakening, for you.
+Dialogue: 0,01:01:31.50,01:01:34.50,Default,,0000,0000,0000,,{Shinji}      Nagisa-kun...
+Dialogue: 0,01:01:34.50,01:01:36.50,Default,,0000,0000,0000,,{Kaworu}      You don't have to worry.
+Dialogue: 0,01:01:36.50,01:01:39.50,Default,,0000,0000,0000,,{Kaworu}      Because I was originally something created by the very Lilin who fear me.
+Dialogue: 0,01:01:39.50,01:01:44.50,Default,,0000,0000,0000,,{Kaworu}      I had intended to do this at some point.
+Dialogue: 0,01:01:44.50,01:01:51.50,Default,,0000,0000,0000,,{Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
+Dialogue: 0,01:01:51.50,01:01:55.50,Default,,0000,0000,0000,,{Kaworu}      They are the key to activating Instrumentality.
+Dialogue: 0,01:01:55.50,01:01:58.50,Default,,0000,0000,0000,,{Kaworu}      All we have to do is obtain those Spears.
+Dialogue: 0,01:01:58.50,01:02:02.50,Default,,0000,0000,0000,,{Kaworu}      If we do that, Nerv will not be able to cause Fourth Impact.
+Dialogue: 0,01:02:02.50,01:02:08.50,Default,,0000,0000,0000,,{Kaworu}      And if we use them together with Eva-13, it becomes possible to fix the world.
+Dialogue: 0,01:02:08.50,01:02:13.50,Default,,0000,0000,0000,,{Shinji}      I see...
+Dialogue: 0,01:02:13.50,01:02:15.50,Default,,0000,0000,0000,,{Shinji}      Yes. It is possible for you.
+Dialogue: 0,01:02:15.50,01:02:17.50,Default,,0000,0000,0000,,{Kaworu}      It is possible WITH you.
+Dialogue: 0,01:02:17.50,01:02:21.50,Default,,0000,0000,0000,,{Kaworu}      Eva-13 uses a double entry system.
+Dialogue: 0,01:02:21.50,01:02:25.50,Default,,0000,0000,0000,,{Kaworu}      Let the two of us become the hope of the Lilin.
+Dialogue: 0,01:02:25.50,01:02:29.50,Default,,0000,0000,0000,,{Kaworu}      Because what you need the most right now is hope,
+Dialogue: 0,01:02:29.50,01:02:35.50,Default,,0000,0000,0000,,{Kaworu}      along with atonement and an open heart.
+Dialogue: 0,01:02:35.50,01:02:40.50,Default,,0000,0000,0000,,{Shinji}      You're amazing. You know everything.
+Dialogue: 0,01:02:40.50,01:02:45.50,Default,,0000,0000,0000,,{Kaworu}      That's because I am always thinking about you.
+Dialogue: 0,01:02:45.50,01:02:48.50,Default,,0000,0000,0000,,{Shinji}      Thank you, Nagisa-kun.
+Dialogue: 0,01:02:48.50,01:02:50.50,Default,,0000,0000,0000,,{Kaworu}      "Kaworu" is fine.
+Dialogue: 0,01:02:50.50,01:02:53.50,Default,,0000,0000,0000,,{Shinji}      Ah, okay.
+Dialogue: 0,01:02:53.50,01:02:59.50,Default,,0000,0000,0000,,{Shinji}      "Shinji" is fine for me, too.
+Dialogue: 0,01:02:59.50,01:03:00.50,Default,,0000,0000,0000,,{Kaworu}      It is the same as playing piano.
+Dialogue: 0,01:03:00.50,01:03:06.50,Default,,0000,0000,0000,,{Kaworu}      Good things will come if we do it together.
+Dialogue: 0,01:03:06.50,01:03:48.50,Default,,0000,0000,0000,,{Shinji}      Let's go, Kaworu-kun.
+Dialogue: 0,01:03:48.50,01:03:53.50,Default,,0000,0000,0000,,{Both}        Evangelion 13, start up!
+Dialogue: 0,01:03:53.50,01:03:54.50,Default,,0000,0000,0000,,{Aoba}        Incoming signal!
+Dialogue: 0,01:03:54.50,01:04:16.50,Default,,0000,0000,0000,,{Aoba}        Activation of a new type of Eva confirmed.
+Dialogue: 0,01:04:16.50,01:04:18.50,Default,,0000,0000,0000,,{Shinji}      We're not alone.
+Dialogue: 0,01:04:18.50,01:04:18.50,Default,,0000,0000,0000,,{Kaworu}      You mean the Mark.09?
+Dialogue: 0,01:04:18.50,01:04:22.50,Default,,0000,0000,0000,,{Kaworu}      It's here as our backup.
+Dialogue: 0,01:04:22.50,01:04:25.50,Default,,0000,0000,0000,,{Kaworu}      It will warn us of any Wille activity.
+Dialogue: 0,01:04:25.50,01:04:28.50,Default,,0000,0000,0000,,{Shinji}      The two of us should be enough for all that.
+Dialogue: 0,01:04:28.50,01:04:32.50,Default,,0000,0000,0000,,{Shinji}      She isn't even Ayanami...
+Dialogue: 0,01:04:32.50,01:04:38.50,Default,,0000,0000,0000,,{Rei}         Not... Ayanami?
+Dialogue: 0,01:04:38.50,01:04:40.50,Default,,0000,0000,0000,,{Shinji}      The walls...?
+Dialogue: 0,01:04:40.50,01:04:48.50,Default,,0000,0000,0000,,{Kaworu}      Yes, all failures of infinity.
+Dialogue: 0,01:04:48.50,01:04:52.50,Default,,0000,0000,0000,,{Kaworu}      Don't let them weigh upon your mind.
+Dialogue: 0,01:04:52.50,01:04:55.50,Default,,0000,0000,0000,,{Kaworu}      We're nearly at Lilith's barrier.
+Dialogue: 0,01:04:55.50,01:04:57.50,Default,,0000,0000,0000,,{Kaworu}      The Main Shaft is completely blocked,
+Dialogue: 0,01:04:57.50,01:05:06.50,Default,,0000,0000,0000,,{Kaworu}      keeping anyone from intruding over the past fourteen years.
+Dialogue: 0,01:05:06.50,01:05:10.50,Default,,0000,0000,0000,,{Shinji}      It's like one big lid.
+Dialogue: 0,01:05:10.50,01:05:13.50,Default,,0000,0000,0000,,{Kaworu}      It's all right. Eva-13 was made for breaking through this.
+Dialogue: 0,01:05:13.50,01:05:25.50,Default,,0000,0000,0000,,{Kaworu}      The two of us can do it.
+Dialogue: 0,01:05:25.50,01:05:27.50,Default,,0000,0000,0000,,{Kaworu}      Try to join tempos.
+Dialogue: 0,01:05:27.50,01:05:34.50,Default,,0000,0000,0000,,{Kaworu}      Remember the piano duet.
+Dialogue: 0,01:05:34.50,01:05:58.50,Default,,0000,0000,0000,,{Kaworu}      Let's go, Shinji-kun.
+Dialogue: 0,01:05:58.50,01:06:17.50,Default,,0000,0000,0000,,{Shinji}      We did it!
+Dialogue: 0,01:06:17.50,01:06:24.50,Default,,0000,0000,0000,,{Kaworu}      We've arrived. The deepest part of Central Dogma.
+Dialogue: 0,01:06:24.50,01:06:31.50,Default,,0000,0000,0000,,{Kaworu}      The epicenter of Third Impact.
+Dialogue: 0,01:06:31.50,01:06:33.50,Default,,0000,0000,0000,,{Shinji}      Is this Lilith?
+Dialogue: 0,01:06:33.50,01:06:35.50,Default,,0000,0000,0000,,{Kaworu}      It once was.
+Dialogue: 0,01:06:35.50,01:06:37.50,Default,,0000,0000,0000,,{Kaworu}      Now, it is her corpse.
+Dialogue: 0,01:06:37.50,01:06:42.50,Default,,0000,0000,0000,,{Shinji}      Misato-san, even though we tried to protect it with our lives...
+Dialogue: 0,01:06:42.50,01:06:45.50,Default,,0000,0000,0000,,{Shinji}      Uh... That's an Eva?
+Dialogue: 0,01:06:45.50,01:06:48.50,Default,,0000,0000,0000,,{Kaworu}      Yes, the Eva Mark.06.
+Dialogue: 0,01:06:48.50,01:06:50.50,Default,,0000,0000,0000,,{Kaworu}      Remodeled into an autonomous type,
+Dialogue: 0,01:06:50.50,01:06:58.50,Default,,0000,0000,0000,,{Kaworu}      exploitation by the Lilin brought the unit to a state of ruin.
+Dialogue: 0,01:06:58.50,01:07:02.50,Default,,0000,0000,0000,,{Shinji}      The things that are piercing them... are our targets?
+Dialogue: 0,01:07:02.50,01:07:05.50,Default,,0000,0000,0000,,{Kaworu}      Yes, the Spears of Longinus and Cassius.
+Dialogue: 0,01:07:05.50,01:07:10.50,Default,,0000,0000,0000,,{Kaworu}      Wielding both requires two souls.
+Dialogue: 0,01:07:10.50,01:07:14.50,Default,,0000,0000,0000,,{Kaworu}      That is why we have the double entry system.
+Dialogue: 0,01:07:14.50,01:07:18.50,Default,,0000,0000,0000,,{Shinji}      Then... wouldn't that pilot have been just as good for this as me?
+Dialogue: 0,01:07:18.50,01:07:20.50,Default,,0000,0000,0000,,{Kaworu}      No, a Lilin imitation cannot be used.
+Dialogue: 0,01:07:20.50,01:07:24.50,Default,,0000,0000,0000,,{Kaworu}      Their souls' placement is different.
+Dialogue: 0,01:07:24.50,01:07:33.50,Default,,0000,0000,0000,,{Kaworu}      Well, let's begin.
+Dialogue: 0,01:07:33.50,01:07:35.50,Default,,0000,0000,0000,,{Kaworu}      Hold on.
+Dialogue: 0,01:07:35.50,01:07:36.50,Default,,0000,0000,0000,,{Kaworu}      Something is wrong.
+Dialogue: 0,01:07:36.50,01:07:41.50,Default,,0000,0000,0000,,{Shinji}      What is it, Kaworu-kun?
+Dialogue: 0,01:07:41.50,01:07:42.50,Default,,0000,0000,0000,,{Kaworu}      This is not right...
+Dialogue: 0,01:07:42.50,01:07:46.50,Default,,0000,0000,0000,,{Kaworu}      Both of the Spears have changed to a similar shape.
+Dialogue: 0,01:07:46.50,01:07:48.50,Default,,0000,0000,0000,,{Shinji}      Let's just pull the Spears quickly!
+Dialogue: 0,01:07:48.50,01:07:54.50,Default,,0000,0000,0000,,{Shinji}      That's why we came here in this Eva.
+Dialogue: 0,01:07:54.50,01:08:05.50,Default,,0000,0000,0000,,{Shinji}      What's going on?!
+Dialogue: 0,01:08:05.50,01:08:07.50,Default,,0000,0000,0000,,{Shinji}      Eva-02?
+Dialogue: 0,01:08:07.50,01:08:10.50,Default,,0000,0000,0000,,{Shinji}      Asuka!
+Dialogue: 0,01:08:10.50,01:08:15.50,Default,,0000,0000,0000,,{Shinji}      What are you doing, Asuka?!
+Dialogue: 0,01:08:15.50,01:08:16.50,Default,,0000,0000,0000,,{Asuka}       Stupid Shinji?!
+Dialogue: 0,01:08:16.50,01:08:18.50,Default,,0000,0000,0000,,{Asuka}       You can't seriously be piloting an Eva?
+Dialogue: 0,01:08:18.50,01:08:20.50,Default,,0000,0000,0000,,{Shinji}      I am.
+Dialogue: 0,01:08:20.50,01:08:23.50,Default,,0000,0000,0000,,{Shinji}      I'm going to change the world with this Eva!
+Dialogue: 0,01:08:23.50,01:08:25.50,Default,,0000,0000,0000,,{Asuka}       You little brat...
+Dialogue: 0,01:08:25.50,01:08:35.50,Default,,0000,0000,0000,,{Asuka}       If that's how it is, don't pilot!
+Dialogue: 0,01:08:35.50,01:08:36.50,Default,,0000,0000,0000,,{Asuka}       Support fire, you're always late!
+Dialogue: 0,01:08:36.50,01:08:38.50,Default,,0000,0000,0000,,{Mari}        Sorry, sorry!
+Dialogue: 0,01:08:38.50,01:08:41.50,Default,,0000,0000,0000,,{Mari}        Adams' Vessel-san,
+Dialogue: 0,01:08:41.50,01:09:04.50,Default,,0000,0000,0000,,{Mari}        the least I can do is get you to stick around.
+Dialogue: 0,01:09:04.50,01:09:06.50,Default,,0000,0000,0000,,{Shinji}      Why are you interfering, Asuka?
+Dialogue: 0,01:09:06.50,01:09:11.50,Default,,0000,0000,0000,,{Shinji}      Those are our Spears of Hope!
+Dialogue: 0,01:09:11.50,01:09:14.50,Default,,0000,0000,0000,,{Asuka}       Stop!... looking!... for trouble!
+Dialogue: 0,01:09:14.50,01:09:15.50,Default,,0000,0000,0000,,{Asuka}       You brat, Shinji!
+Dialogue: 0,01:09:15.50,01:09:17.50,Default,,0000,0000,0000,,{Asuka}       Are you planning to start Third Impact again?
+Dialogue: 0,01:09:17.50,01:09:19.50,Default,,0000,0000,0000,,{Shinji}      You're wrong!
+Dialogue: 0,01:09:19.50,01:09:22.50,Default,,0000,0000,0000,,{Shinji}      I'm trying to fix everything!
+Dialogue: 0,01:09:22.50,01:09:26.50,Default,,0000,0000,0000,,{Shinji}      I'm trying to save the world!
+Dialogue: 0,01:09:26.50,01:09:29.50,Default,,0000,0000,0000,,{Asuka}       You really are a little twerp.
+Dialogue: 0,01:09:29.50,01:09:40.50,Default,,0000,0000,0000,,{Shinji}      You just don't get it!
+Dialogue: 0,01:09:40.50,01:09:44.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun, why aren't you helping?
+Dialogue: 0,01:09:44.50,01:09:49.50,Default,,0000,0000,0000,,{Kaworu}      Cassius and Longinus. Both of the Spears are needed...
+Dialogue: 0,01:09:49.50,01:09:53.50,Default,,0000,0000,0000,,{Kaworu}      But the only two Spears that are here are the same...
+Dialogue: 0,01:09:53.50,01:09:54.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun!
+Dialogue: 0,01:09:54.50,01:09:56.50,Default,,0000,0000,0000,,{Kaworu}      That's it!
+Dialogue: 0,01:09:56.50,01:09:58.50,Default,,0000,0000,0000,,{Kaworu}      Now I understand,
+Dialogue: 0,01:09:58.50,01:10:05.50,Default,,0000,0000,0000,,{Kaworu}      Lilin!
+Dialogue: 0,01:10:05.50,01:10:08.50,Default,,0000,0000,0000,,{Mari}        Hey, Ms. Sucks To Be Seele's Pilot,
+Dialogue: 0,01:10:08.50,01:10:10.50,Default,,0000,0000,0000,,{Mari}        you can hear me, right?
+Dialogue: 0,01:10:10.50,01:10:14.50,Default,,0000,0000,0000,,{Mari}        Don't you think you should get out before you turn into an Adams' Vessel?
+Dialogue: 0,01:10:14.50,01:10:17.50,Default,,0000,0000,0000,,{Rei}         No. That is not the order I received.
+Dialogue: 0,01:10:17.50,01:10:19.50,Default,,0000,0000,0000,,{Mari}        Talk about a square.
+Dialogue: 0,01:10:19.50,01:10:22.50,Default,,0000,0000,0000,,{Mari}        You know your original was a whole lot more friendly?
+Dialogue: 0,01:10:22.50,01:10:24.50,Default,,0000,0000,0000,,{Rei}         Original?
+Dialogue: 0,01:10:24.50,01:10:40.50,Default,,0000,0000,0000,,{Rei}         The other me...
+Dialogue: 0,01:10:40.50,01:10:55.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun? What's the matter?
+Dialogue: 0,01:10:55.50,01:10:56.50,Default,,0000,0000,0000,,{Shinji}      Asuka...
+Dialogue: 0,01:10:56.50,01:10:59.50,Default,,0000,0000,0000,,{Shinji}      Please! Stay out of our way!
+Dialogue: 0,01:10:59.50,01:11:07.50,Default,,0000,0000,0000,,{Asuka}       Go down quietly, you little brat!
+Dialogue: 0,01:11:07.50,01:11:08.50,Default,,0000,0000,0000,,{Asuka}       Of all times!
+Dialogue: 0,01:11:08.50,01:11:17.50,Default,,0000,0000,0000,,{Asuka}       Hey, Glasses! I need a spare!
+Dialogue: 0,01:11:17.50,01:11:21.50,Default,,0000,0000,0000,,{Shinji}      While we still have the chance! The Spears!
+Dialogue: 0,01:11:21.50,01:11:23.50,Default,,0000,0000,0000,,{Asuka}       You'd raise a hand against a girl...
+Dialogue: 0,01:11:23.50,01:11:24.50,Default,,0000,0000,0000,,{Asuka}       You're the worst.
+Dialogue: 0,01:11:24.50,01:11:38.50,Default,,0000,0000,0000,,{Mari}        Spare, incoming!
+Dialogue: 0,01:11:38.50,01:11:40.50,Default,,0000,0000,0000,,{Kaworu}      Let's stop, Shinji-kun.
+Dialogue: 0,01:11:40.50,01:11:42.50,Default,,0000,0000,0000,,{Kaworu}      I have a bad feeling about this...
+Dialogue: 0,01:11:42.50,01:11:44.50,Default,,0000,0000,0000,,{Shinji}      We can't, Kaworu-kun!
+Dialogue: 0,01:11:44.50,01:11:47.50,Default,,0000,0000,0000,,{Shinji}      We came here to do something!
+Dialogue: 0,01:11:47.50,01:11:48.50,Default,,0000,0000,0000,,{Kaworu}      We've done enough!
+Dialogue: 0,01:11:48.50,01:11:51.50,Default,,0000,0000,0000,,{Kaworu}      These aren't the Spears we came for!
+Dialogue: 0,01:11:51.50,01:11:57.50,Default,,0000,0000,0000,,{Shinji}      Not... the Spears we came for...
+Dialogue: 0,01:11:57.50,01:12:00.50,Default,,0000,0000,0000,,{Shinji}      You're the one who said we need the Spears.
+Dialogue: 0,01:12:00.50,01:12:07.50,Default,,0000,0000,0000,,{Shinji}      That's why I got into this Eva!
+Dialogue: 0,01:12:07.50,01:12:12.50,Default,,0000,0000,0000,,{Kaworu}      The control system...?
+Dialogue: 0,01:12:12.50,01:12:15.50,Default,,0000,0000,0000,,{Shinji}      For Kaworu-kun,
+Dialogue: 0,01:12:15.50,01:12:17.50,Default,,0000,0000,0000,,{Shinji}      for everyone, I will get the Spears!
+Dialogue: 0,01:12:17.50,01:12:21.50,Default,,0000,0000,0000,,{Shinji}      Only then will the world go back to the way it should be.
+Dialogue: 0,01:12:21.50,01:12:25.50,Default,,0000,0000,0000,,{Shinji}      If I do that, even Misato-san will...
+Dialogue: 0,01:12:25.50,01:12:26.50,Default,,0000,0000,0000,,{Asuka}       Damn!
+Dialogue: 0,01:12:26.50,01:12:28.50,Default,,0000,0000,0000,,{Asuka}       Glasses! Get rid of the barrier!
+Dialogue: 0,01:12:28.50,01:12:30.50,Default,,0000,0000,0000,,{Asuka}       You're cleared to use AA ammo!
+Dialogue: 0,01:12:30.50,01:12:32.50,Default,,0000,0000,0000,,{Mari}        I've been waiting for this.
+Dialogue: 0,01:12:32.50,01:12:40.50,Default,,0000,0000,0000,,{Mari}        Check these babies out!
+Dialogue: 0,01:12:40.50,01:12:42.50,Default,,0000,0000,0000,,{Mari}        No A.T. Field?
+Dialogue: 0,01:12:42.50,01:12:56.50,Default,,0000,0000,0000,,{Mari}        Don't tell me this unit...
+Dialogue: 0,01:12:56.50,01:12:58.50,Default,,0000,0000,0000,,{Kaworu}      Don't do it, Shinji-kun!
+Dialogue: 0,01:12:58.50,01:13:23.50,Default,,0000,0000,0000,,{Asuka}       Stop, you stupid brat!
+Dialogue: 0,01:13:23.50,01:13:32.50,Default,,0000,0000,0000,,{Gendo}       Let's begin, Fuyutsuki.
+Dialogue: 0,01:13:32.50,01:13:35.50,Default,,0000,0000,0000,,{Shinji}      Eva Mark.06?
+Dialogue: 0,01:13:35.50,01:13:36.50,Default,,0000,0000,0000,,{Shinji}      Pattern blue?
+Dialogue: 0,01:13:36.50,01:13:40.50,Default,,0000,0000,0000,,{Shinji}      What's going on?
+Dialogue: 0,01:13:40.50,01:13:42.50,Default,,0000,0000,0000,,{Asuka}       This is bad!
+Dialogue: 0,01:13:42.50,01:13:45.50,Default,,0000,0000,0000,,{Asuka}       The 12th Angel is still alive!
+Dialogue: 0,01:13:45.50,01:13:47.50,Default,,0000,0000,0000,,{Asuka}       Glasses, Container No.3!
+Dialogue: 0,01:13:47.50,01:13:50.50,Default,,0000,0000,0000,,{Mari}        Got it!
+Dialogue: 0,01:13:50.50,01:13:59.50,Default,,0000,0000,0000,,{Asuka}       I'll deal with this before Third Impact starts up again!
+Dialogue: 0,01:13:59.50,01:14:10.50,Default,,0000,0000,0000,,{Rei}         It was on orders.
+Dialogue: 0,01:14:10.50,01:14:20.50,Default,,0000,0000,0000,,{Shinji}      An Angel?!
+Dialogue: 0,01:14:20.50,01:14:24.50,Default,,0000,0000,0000,,{Mari}        Princess, you should cease the futile fire.
+Dialogue: 0,01:14:24.50,01:14:27.50,Default,,0000,0000,0000,,{Mari}        The whole thing is a core.
+Dialogue: 0,01:14:27.50,01:14:31.50,Default,,0000,0000,0000,,{Mari}        With just us, there's no way to hurt it.
+Dialogue: 0,01:14:31.50,01:14:34.50,Default,,0000,0000,0000,,{Mari}        Besides that, by defeating the Last Angel,
+Dialogue: 0,01:14:34.50,01:14:36.50,Default,,0000,0000,0000,,{Mari}        we don't know what kind of evil will come out.
+Dialogue: 0,01:14:36.50,01:14:42.50,Default,,0000,0000,0000,,{Mari}        You're worried, no?
+Dialogue: 0,01:14:42.50,01:14:47.50,Default,,0000,0000,0000,,{Rei}         This is...
+Dialogue: 0,01:14:47.50,01:14:51.50,Default,,0000,0000,0000,,{Rei}         This is... me?
+Dialogue: 0,01:14:51.50,01:14:56.50,Default,,0000,0000,0000,,{Rei}         What am I...?
+Dialogue: 0,01:14:56.50,01:14:57.50,Default,,0000,0000,0000,,{Shinji}      The controls aren't responding.
+Dialogue: 0,01:14:57.50,01:15:01.50,Default,,0000,0000,0000,,{Shinji}      What's going on, Kaworu-kun?
+Dialogue: 0,01:15:01.50,01:15:03.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun!
+Dialogue: 0,01:15:03.50,01:15:06.50,Default,,0000,0000,0000,,{Kaworu}      I never imagined that I, the First Angel,
+Dialogue: 0,01:15:06.50,01:15:10.50,Default,,0000,0000,0000,,{Kaworu}      would be cast down to the 13th.
+Dialogue: 0,01:15:10.50,01:15:14.50,Default,,0000,0000,0000,,{Shinji}      What are you doing, Kaworu-kun?
+Dialogue: 0,01:15:14.50,01:15:18.50,Default,,0000,0000,0000,,{Kaworu}      So the beginning and the end are the same.
+Dialogue: 0,01:15:18.50,01:15:21.50,Default,,0000,0000,0000,,{Kaworu}      I'd expected as much from the King of the Lilin,
+Dialogue: 0,01:15:21.50,01:15:23.50,Default,,0000,0000,0000,,{Kaworu}      Shinji-kun's father!
+Dialogue: 0,01:15:23.50,01:15:25.50,Default,,0000,0000,0000,,{Mari}        DSS Choker, pattern blue?
+Dialogue: 0,01:15:25.50,01:15:29.50,Default,,0000,0000,0000,,{Mari}        A thirteenth? Even though the 12th should've been the last?!
+Dialogue: 0,01:15:29.50,01:15:34.50,Default,,0000,0000,0000,,{Mari}        So this is what Gendo-kun is aiming for.
+Dialogue: 0,01:15:34.50,01:15:39.50,Default,,0000,0000,0000,,{Gendo}       It is time to amend the Dead Sea Scrolls' contract.
+Dialogue: 0,01:15:39.50,01:15:43.50,Default,,0000,0000,0000,,{Gendo}       This is farewell.
+Dialogue: 0,01:15:43.50,01:15:47.50,Default,,0000,0000,0000,,{Gendo}       Even though all of you have changed the shape of your souls,
+Dialogue: 0,01:15:47.50,01:15:51.50,Default,,0000,0000,0000,,{Gendo}       you are still lifeforms blessed with the Fruit of Knowledge.
+Dialogue: 0,01:15:51.50,01:15:54.50,Default,,0000,0000,0000,,{Gendo}       You were able to live for eternity,
+Dialogue: 0,01:15:54.50,01:16:00.50,Default,,0000,0000,0000,,{Gendo}       but, same as us, you still cannot escape the fate of death.
+Dialogue: 0,01:16:00.50,01:16:04.50,Default,,0000,0000,0000,,{Gendo}       To advance the evolution of the flock burdened with death,
+Dialogue: 0,01:16:04.50,01:16:10.50,Default,,0000,0000,0000,,{Gendo}       you had bestowed upon us the gift of civilization.
+Dialogue: 0,01:16:10.50,01:16:14.50,Default,,0000,0000,0000,,{Gendo}       As the representative of humanity, I say thank you.
+Dialogue: 0,01:16:14.50,01:16:22.50,Default,,0000,0000,0000,,{Gendo}       Through death, I shall return your souls to where they belong.
+Dialogue: 0,01:16:22.50,01:16:25.50,Default,,0000,0000,0000,,{Gendo}       The long desired Human Instrumentality Project,
+Dialogue: 0,01:16:25.50,01:16:29.50,Default,,0000,0000,0000,,{Gendo}       and the contracted deicide, will be completed by me.
+Dialogue: 0,01:16:29.50,01:16:31.50,Default,,0000,0000,0000,,{Gendo}       Rest assured.
+Dialogue: 0,01:16:31.50,01:16:35.50,Default,,0000,0000,0000,,{Keel}        Our wishes have come to fruition.
+Dialogue: 0,01:16:35.50,01:16:36.50,Default,,0000,0000,0000,,{Keel}        Good.
+Dialogue: 0,01:16:36.50,01:16:39.50,Default,,0000,0000,0000,,{Keel}        Everything is good.
+Dialogue: 0,01:16:39.50,01:16:41.50,Default,,0000,0000,0000,,{Keel}        Human Instrumentality.
+Dialogue: 0,01:16:41.50,01:17:16.50,Default,,0000,0000,0000,,{Keel}        We hope for the peaceful purification of all souls.
+Dialogue: 0,01:17:16.50,01:17:17.50,Default,,0000,0000,0000,,{Asuka}       Damn it!
+Dialogue: 0,01:17:17.50,01:17:19.50,Default,,0000,0000,0000,,{Asuka}       It's entering its pseudo-evolved form!
+Dialogue: 0,01:17:19.50,01:17:22.50,Default,,0000,0000,0000,,{Mari}        Guess it's Awakening...
+Dialogue: 0,01:17:22.50,01:17:59.50,Default,,0000,0000,0000,,{Mari}        It's a surviving Adams!
+Dialogue: 0,01:17:59.50,01:18:14.50,Default,,0000,0000,0000,,{Shinji}      What's this...?
+Dialogue: 0,01:18:14.50,01:18:21.50,Default,,0000,0000,0000,,{Shinji}      What IS this...?
+Dialogue: 0,01:18:21.50,01:18:24.50,Default,,0000,0000,0000,,{Shinji}      It's all my fault!
+Dialogue: 0,01:18:24.50,01:18:32.50,Default,,0000,0000,0000,,{Shinji}      Because I pulled the Spears!
+Dialogue: 0,01:18:32.50,01:18:34.50,Default,,0000,0000,0000,,{Shinji}      This is...!
+Dialogue: 0,01:18:34.50,01:18:38.50,Default,,0000,0000,0000,,{Kaworu}      Fourth Impact...
+Dialogue: 0,01:18:38.50,01:18:55.50,Default,,0000,0000,0000,,{Kaworu}      These are the opening ceremonies.
+Dialogue: 0,01:18:55.50,01:18:56.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun...
+Dialogue: 0,01:18:56.50,01:19:05.50,Default,,0000,0000,0000,,{Shinji}      The choker!
+Dialogue: 0,01:19:05.50,01:19:09.50,Default,,0000,0000,0000,,{Shinji}      Misato-san?!
+Dialogue: 0,01:19:09.50,01:19:11.50,Default,,0000,0000,0000,,{Misato}      A.T. Field at maximum!
+Dialogue: 0,01:19:11.50,01:19:13.50,Default,,0000,0000,0000,,{Misato}      Contain the Eva in its present state!
+Dialogue: 0,01:19:13.50,01:19:16.50,Default,,0000,0000,0000,,{Misato}      Prepare the main armaments for a salvo! Load the mortar shells!
+Dialogue: 0,01:19:16.50,01:19:18.50,Default,,0000,0000,0000,,{Misato}      Do whatever it takes to keep Fourth Impact in check!
+Dialogue: 0,01:19:18.50,01:19:27.50,Default,,0000,0000,0000,,{Misato}      Fire!
+Dialogue: 0,01:19:27.50,01:19:29.50,Default,,0000,0000,0000,,{Midori}      Damage received! Direct hit to main armament!
+Dialogue: 0,01:19:29.50,01:19:36.50,Default,,0000,0000,0000,,{Misato}      The Adams' Vessel?!
+Dialogue: 0,01:19:36.50,01:19:38.50,Default,,0000,0000,0000,,{Tama}        Shots received on midsection! Damage unknown!
+Dialogue: 0,01:19:38.50,01:19:40.50,Default,,0000,0000,0000,,{Woman (BG)}  / The target is the new-type Eva! ####
+Dialogue: 0,01:19:40.50,01:19:42.50,Default,,0000,0000,0000,,{Sumire}      Rudder is ineffective!
+Dialogue: 0,01:19:42.50,01:19:53.50,Default,,0000,0000,0000,,{Sumire}      We're losing altitude!
+Dialogue: 0,01:19:53.50,01:19:56.50,Default,,0000,0000,0000,,{Tama}        / ?######!
+Dialogue: 0,01:19:56.50,01:19:58.50,Default,,0000,0000,0000,,{Ritsuko}     The Adams' Vessel... Wunder's original master!
+Dialogue: 0,01:19:58.50,01:20:07.50,Default,,0000,0000,0000,,{Ritsuko}     It intends to take the ship's controls back from Eva-01!
+Dialogue: 0,01:20:07.50,01:20:15.50,Default,,0000,0000,0000,,{Rei}         Why can't I restore the link?
+Dialogue: 0,01:20:15.50,01:20:17.50,Default,,0000,0000,0000,,{Mari}        Oh, man!
+Dialogue: 0,01:20:17.50,01:20:20.50,Default,,0000,0000,0000,,{Mari}        These guys are not messing around.
+Dialogue: 0,01:20:20.50,01:20:22.50,Default,,0000,0000,0000,,{Asuka}       Glasses, you handle the brat's Eva!
+Dialogue: 0,01:20:22.50,01:20:24.50,Default,,0000,0000,0000,,{Asuka}       I'll help out Wunder with 02'!
+Dialogue: 0,01:20:24.50,01:20:25.50,Default,,0000,0000,0000,,{Mari}        Roger!
+Dialogue: 0,01:20:25.50,01:20:27.50,Default,,0000,0000,0000,,{Midori}      Unable to reject the Adams' Vessel!
+Dialogue: 0,01:20:27.50,01:20:29.50,Default,,0000,0000,0000,,{Tama}        Unidentified data is infiltrating the main control system!
+Dialogue: 0,01:20:29.50,01:20:53.50,Default,,0000,0000,0000,,{Aoba}        It's hijacking control of the ship!
+Dialogue: 0,01:20:53.50,01:21:03.50,Default,,0000,0000,0000,,{Asuka}       Talk about cheap! That's Seele's style, all right.
+Dialogue: 0,01:21:03.50,01:21:05.50,Default,,0000,0000,0000,,{Asuka}       Mode change!
+Dialogue: 0,01:21:05.50,01:21:14.50,Default,,0000,0000,0000,,{Asuka}       Code 777!
+Dialogue: 0,01:21:14.50,01:21:15.50,Default,,0000,0000,0000,,{Rei}         Who's there?
+Dialogue: 0,01:21:15.50,01:21:34.50,Default,,0000,0000,0000,,{Asuka}       Who the hell are YOU?!
+Dialogue: 0,01:21:34.50,01:21:36.50,Default,,0000,0000,0000,,{Aoba}        Report from lower bridge.
+Dialogue: 0,01:21:36.50,01:21:37.50,Default,,0000,0000,0000,,{Aoba}        Eva-02' has engaged the Adams' Vessel!
+Dialogue: 0,01:21:37.50,01:21:58.50,Default,,0000,0000,0000,,{Misato}      We're counting on you, Asuka.
+Dialogue: 0,01:21:58.50,01:22:01.50,Default,,0000,0000,0000,,{Rei}         If I were Ayanami Rei, what would I do at a time like this?
+Dialogue: 0,01:22:01.50,01:22:02.50,Default,,0000,0000,0000,,{Asuka}       Hell if I know!
+Dialogue: 0,01:22:02.50,01:22:08.50,Default,,0000,0000,0000,,{Asuka}       Do whatever you want!
+Dialogue: 0,01:22:08.50,01:22:19.50,Default,,0000,0000,0000,,{Asuka}       And now, for the core!
+Dialogue: 0,01:22:19.50,01:22:22.50,Default,,0000,0000,0000,,{Asuka}       Geez! The whole thing's a core?
+Dialogue: 0,01:22:22.50,01:22:24.50,Default,,0000,0000,0000,,{Asuka}       No time...
+Dialogue: 0,01:22:24.50,01:22:41.50,Default,,0000,0000,0000,,{Asuka}       Sorry, Eva-02!
+Dialogue: 0,01:22:41.50,01:22:43.50,Default,,0000,0000,0000,,{Sumire}      Control systems restored!
+Dialogue: 0,01:22:43.50,01:22:44.50,Default,,0000,0000,0000,,{Misato}      Emergency launch of all ships!
+Dialogue: 0,01:22:44.50,01:22:46.50,Default,,0000,0000,0000,,{Misato}      Pursue the target Eva immediately!
+Dialogue: 0,01:22:46.50,01:22:50.50,Default,,0000,0000,0000,,{Ritsuko}     Captain, it won't be possible until the main unit is restored!
+Dialogue: 0,01:22:50.50,01:23:12.50,Default,,0000,0000,0000,,{Misato}      Shinji-kun...
+Dialogue: 0,01:23:12.50,01:23:16.50,Default,,0000,0000,0000,,{Shinji}      This is all because of me...
+Dialogue: 0,01:23:16.50,01:23:22.50,Default,,0000,0000,0000,,{Shinji}      I...
+Dialogue: 0,01:23:22.50,01:23:25.50,Default,,0000,0000,0000,,{Kaworu}      It's not your fault.
+Dialogue: 0,01:23:25.50,01:23:29.50,Default,,0000,0000,0000,,{Kaworu}      It's because I became the Thirteenth Angel.
+Dialogue: 0,01:23:29.50,01:23:31.50,Default,,0000,0000,0000,,{Kaworu}      I'm the trigger.
+Dialogue: 0,01:23:31.50,01:23:34.50,Default,,0000,0000,0000,,{Shinji}      What do I do?
+Dialogue: 0,01:23:34.50,01:23:41.50,Default,,0000,0000,0000,,{Shinji}      Hey, what are we going to do?
+Dialogue: 0,01:23:41.50,01:23:44.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun,
+Dialogue: 0,01:23:44.50,01:23:47.50,Default,,0000,0000,0000,,{Shinji}      tell me what the right thing would be.
+Dialogue: 0,01:23:47.50,01:23:53.50,Default,,0000,0000,0000,,{Kaworu}      Even if souls disappear, hopes and curses will remain in this world.
+Dialogue: 0,01:23:53.50,01:23:58.50,Default,,0000,0000,0000,,{Kaworu}      Intent is imparted to the world as information and goes on to change.
+Dialogue: 0,01:23:58.50,01:24:04.50,Default,,0000,0000,0000,,{Kaworu}      In time, even one's very self is being rewritten.
+Dialogue: 0,01:24:04.50,01:24:09.50,Default,,0000,0000,0000,,{Kaworu}      I'm sorry. This isn't the happiness you wished for.
+Dialogue: 0,01:24:09.50,01:24:13.50,Default,,0000,0000,0000,,{Kaworu}      I will close the Door of Guf.
+Dialogue: 0,01:24:13.50,01:24:15.50,Default,,0000,0000,0000,,{Kaworu}      You don't need to worry about it, Shinji-kun.
+Dialogue: 0,01:24:15.50,01:24:18.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun...
+Dialogue: 0,01:24:18.50,01:24:21.50,Default,,0000,0000,0000,,{Shinji}      What are you saying, Kaworu-kun?
+Dialogue: 0,01:24:21.50,01:24:28.50,Default,,0000,0000,0000,,{Shinji}      I don't get any of it!
+Dialogue: 0,01:24:28.50,01:24:41.50,Default,,0000,0000,0000,,{Kaworu}      Shinji-kun, you should find a place of peace and self.
+Dialogue: 0,01:24:41.50,01:24:47.50,Default,,0000,0000,0000,,{Kaworu}      Fate will surely guide you.
+Dialogue: 0,01:24:47.50,01:24:51.50,Default,,0000,0000,0000,,{Kaworu}      Don't make that face.
+Dialogue: 0,01:24:51.50,01:24:54.50,Default,,0000,0000,0000,,{Kaworu}      We'll meet again, Shinji-kun.
+Dialogue: 0,01:24:54.50,01:25:14.50,Default,,0000,0000,0000,,{Shinji}      Kaworu-kun!
+Dialogue: 0,01:25:14.50,01:25:16.50,Default,,0000,0000,0000,,{Mari}        The Door of Guf hasn't closed yet?
+Dialogue: 0,01:25:16.50,01:25:35.50,Default,,0000,0000,0000,,{Mari}        So, Puppy Boy is Seele's backup measure!
+Dialogue: 0,01:25:35.50,01:25:36.50,Default,,0000,0000,0000,,{Mari}        I'm done cleaning up!
+Dialogue: 0,01:25:36.50,01:25:40.50,Default,,0000,0000,0000,,{Mari}        Hang in there, Puppy Boy!
+Dialogue: 0,01:25:40.50,01:25:41.50,Default,,0000,0000,0000,,{Mari}        Don't be such a baby!
+Dialogue: 0,01:25:41.50,01:25:43.50,Default,,0000,0000,0000,,{Mari}        Help out the Princess, at least!
+Dialogue: 0,01:25:43.50,01:25:46.50,Default,,0000,0000,0000,,{Mari}        Be a man!
+Dialogue: 0,01:25:46.50,01:26:43.50,Default,,0000,0000,0000,,{Mari}        And while you're at it, get to know the world a little!
+Dialogue: 0,01:26:43.50,01:26:45.50,Default,,0000,0000,0000,,{Fuyutsuki}   What a nightmare.
+Dialogue: 0,01:26:45.50,01:26:48.50,Default,,0000,0000,0000,,{Fuyutsuki}   Nearly all went as Seele intended.
+Dialogue: 0,01:26:48.50,01:26:56.50,Default,,0000,0000,0000,,{Gendo}       But not only was Seele's boy eliminated, the path was forged for Eva-13's Awakening.
+Dialogue: 0,01:26:56.50,01:26:59.50,Default,,0000,0000,0000,,{Gendo}       Captain Katsuragi's actions are within predictions, as well.
+Dialogue: 0,01:26:59.50,01:27:02.50,Default,,0000,0000,0000,,{Gendo}       This will do for now.
+Dialogue: 0,01:27:02.50,01:27:05.50,Default,,0000,0000,0000,,{Hyuga}       All ships, maintain organization for Class 2 withdrawal.
+Dialogue: 0,01:27:05.50,01:27:07.50,Default,,0000,0000,0000,,{Woman}       No pattern blue readings.
+Dialogue: 0,01:27:07.50,01:27:09.50,Default,,0000,0000,0000,,{Woman}       No ships sighted in withdrawal airspace.
+Dialogue: 0,01:27:09.50,01:27:11.50,Default,,0000,0000,0000,,{Man}         Damaged areas of the midsection have received emergency treatment.
+Dialogue: 0,01:27:11.50,01:27:14.50,Default,,0000,0000,0000,,{Ritsuko}     Fourth Impact was stopped, but we don't know whom to thank.
+Dialogue: 0,01:27:14.50,01:27:16.50,Default,,0000,0000,0000,,{Man (BG)}    / #?????##?????
+Dialogue: 0,01:27:16.50,01:27:17.50,Default,,0000,0000,0000,,{Man (BG)}    / ????????????????####?
+Dialogue: 0,01:27:17.50,01:28:11.50,Default,,0000,0000,0000,,{Ritsuko}     Misato, let's leave it for now...
+Dialogue: 0,01:28:11.50,01:28:14.50,Default,,0000,0000,0000,,{Asuka}       You brat, Shinji.
+Dialogue: 0,01:28:14.50,01:28:20.50,Default,,0000,0000,0000,,{Asuka}       You didn't come to help me?
+Dialogue: 0,01:28:20.50,01:28:22.50,Default,,0000,0000,0000,,{Asuka}       Yet again, it's all about you.
+Dialogue: 0,01:28:22.50,01:28:50.50,Default,,0000,0000,0000,,{Asuka}       You think you can just get away with what's happened by not saying a thing.
+Dialogue: 0,01:28:50.50,01:28:53.50,Default,,0000,0000,0000,,{Asuka}       You still need pampering?
+Dialogue: 0,01:28:53.50,01:28:57.50,Default,,0000,0000,0000,,{Asuka}       No matter how much time passes... you're always such a brat!
+Dialogue: 0,01:28:57.50,01:29:00.50,Default,,0000,0000,0000,,{Asuka}       Here, put this on.
+Dialogue: 0,01:29:00.50,01:29:08.50,Default,,0000,0000,0000,,{Asuka}       Jeez! You can stand on your own, can't you?!
+Dialogue: 0,01:29:08.50,01:29:12.50,Default,,0000,0000,0000,,{Asuka}       You're the pilot from before.
+Dialogue: 0,01:29:12.50,01:29:21.50,Default,,0000,0000,0000,,{Asuka}       From an early lot of Ayanami Types, are you?
+Dialogue: 0,01:29:21.50,01:29:26.50,Default,,0000,0000,0000,,{Asuka}       The L Barrier's density is too strong here, so they won't come to help us.
+Dialogue: 0,01:29:26.50,01:29:33.50,Default,,0000,0000,0000,,{Asuka}       We're going to where the Lilin are.
+Dialogue: 0,01:29:33.50,01:34:21.50,Default,,0000,0000,0000,,{Asuka}       Come on!
+Dialogue: 0,01:34:21.50,01:34:22.50,Default,,0000,0000,0000,,{Caption}     Preview
+Dialogue: 0,01:34:22.50,01:34:26.50,Default,,0000,0000,0000,,{Narrator}    Shinji Ikari continues to wander, still lacking the will to live.
+Dialogue: 0,01:34:26.50,01:34:29.50,Default,,0000,0000,0000,,{Narrator}    He reaches a place where he learns hope.
+Dialogue: 0,01:34:29.50,01:34:32.50,Default,,0000,0000,0000,,{Narrator}    Finally the Instrumentality Project is set in motion.
+Dialogue: 0,01:34:32.50,01:34:33.50,Default,,0000,0000,0000,,{Narrator}    To prevent Final Impact,
+Dialogue: 0,01:34:33.50,01:34:36.50,Default,,0000,0000,0000,,{Narrator}    Wille make one last grueling stand.
+Dialogue: 0,01:34:36.50,01:34:37.50,Default,,0000,0000,0000,,{Narrator}    Wunder tears through the skies!
+Dialogue: 0,01:34:37.50,01:34:42.50,Default,,0000,0000,0000,,{Narrator}    Eva Unit 8+2 races across the red earth!
+Dialogue: 0,01:34:42.50,01:34:44.50,Default,,0000,0000,0000,,{Narrator}    Next time in "New Evangelion Theatrical Edition".
+Dialogue: 0,01:34:44.50,01:34:44.50,Default,,0000,0000,0000,,{Title}       New Evangelion Theatrical Edition: ||
+Dialogue: 0,01:34:44.50,01:34:44.50,Default,,0000,0000,0000,,{Narrator}    There'll be fan service all the way up to the end!
